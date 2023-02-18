@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GPCR, DEER on The Elgeti Lab</title>
-    <link>/categories/gpcr-deer/</link>
+    <link>https://elgetilab.github.io/categories/gpcr-deer/</link>
     <description>Recent content in GPCR, DEER on The Elgeti Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/gpcr-deer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://elgetilab.github.io/categories/gpcr-deer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DEER Analysis of GPCR Conformational Heterogeneity</title>
-      <link>/publications_blogformat/2022-biomolecules/</link>
+      <link>https://elgetilab.github.io/publications_blogformat/2022-biomolecules/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publications_blogformat/2022-biomolecules/</guid>
+      <guid>https://elgetilab.github.io/publications_blogformat/2022-biomolecules/</guid>
       <description>Brief summary of the paper Elgeti, M., Hubbell, W.L. (2021). DEER Analysis of GPCR Conformational Heterogeneity. Biomolecules, 11, 778. https://doi.org/10.3390/biom11060778</description>
     </item>
     
