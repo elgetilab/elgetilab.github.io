@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://elgetilab.github.io"
 theme = "hugo-apero"
 languageCode = "en"
 title = "The Elgeti Lab"
