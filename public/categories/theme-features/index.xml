@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theme Features on The Elgeti Lab</title>
-    <link>elgetilab.github.io/categories/theme-features/</link>
+    <link>/categories/theme-features/</link>
     <description>Recent content in Theme Features on The Elgeti Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="elgetilab.github.io/categories/theme-features/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/theme-features/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A first post</title>
-      <link>elgetilab.github.io/publications_blogformat/spoonful-series/01-spoonful/</link>
+      <link>/publications_blogformat/spoonful-series/01-spoonful/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>elgetilab.github.io/publications_blogformat/spoonful-series/01-spoonful/</guid>
+      <guid>/publications_blogformat/spoonful-series/01-spoonful/</guid>
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/publications_blogformat/spoonful-series/01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
 My content section is: publications_blogformat My layout is: single-series does this work? or this? Let&amp;rsquo;s start.
@@ -21,62 +21,62 @@ beginning middle end </description>
     
     <item>
       <title>A second post</title>
-      <link>elgetilab.github.io/publications_blogformat/spoonful-series/02-spoonful/</link>
+      <link>/publications_blogformat/spoonful-series/02-spoonful/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>elgetilab.github.io/publications_blogformat/spoonful-series/02-spoonful/</guid>
+      <guid>/publications_blogformat/spoonful-series/02-spoonful/</guid>
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/publications_blogformat/spoonful-series/02-spoonful/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: publications_blogformat My layout is: single-series Images in this page bundle: /elgetilab.github.io/publications_blogformat/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
+My content section is: publications_blogformat My layout is: single-series Images in this page bundle: /publications_blogformat/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
     </item>
     
     <item>
       <title>A third post</title>
-      <link>elgetilab.github.io/publications_blogformat/spoonful-series/03-spoonful/</link>
+      <link>/publications_blogformat/spoonful-series/03-spoonful/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>elgetilab.github.io/publications_blogformat/spoonful-series/03-spoonful/</guid>
+      <guid>/publications_blogformat/spoonful-series/03-spoonful/</guid>
       <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
 Here I am: content/publications_blogformat/spoonful-series/03-spoonful/index.markdown Here is my R Markdown source file: publications_blogformat/spoonful-series/03-spoonful/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
 To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: publications_blogformat My layout is: single-series Images in this page bundle: /elgetilab.</description>
+My content section is: publications_blogformat My layout is: single-series Images in this page bundle: /publications_blogformat/spoonful-series/03-spoonful/featured-photo.</description>
     </item>
     
     <item>
       <title>Style your site colors</title>
-      <link>elgetilab.github.io/publications_blogformat/color-themes/</link>
+      <link>/publications_blogformat/color-themes/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>elgetilab.github.io/publications_blogformat/color-themes/</guid>
+      <guid>/publications_blogformat/color-themes/</guid>
       <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
 Use a color theme Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description>
     </item>
     
     <item>
       <title>Style your site typography</title>
-      <link>elgetilab.github.io/publications_blogformat/fonts/</link>
+      <link>/publications_blogformat/fonts/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>elgetilab.github.io/publications_blogformat/fonts/</guid>
+      <guid>/publications_blogformat/fonts/</guid>
       <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
 Embedded fonts Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content ❤️!</description>
     </item>
     
     <item>
       <title>A Spoonful of Hugo</title>
-      <link>elgetilab.github.io/publications_blogformat/spoonful-series/</link>
+      <link>/publications_blogformat/spoonful-series/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>elgetilab.github.io/publications_blogformat/spoonful-series/</guid>
+      <guid>/publications_blogformat/spoonful-series/</guid>
       <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
     </item>
     
     <item>
       <title>Using panelsets</title>
-      <link>elgetilab.github.io/publications_blogformat/seedling/</link>
+      <link>/publications_blogformat/seedling/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>elgetilab.github.io/publications_blogformat/seedling/</guid>
+      <guid>/publications_blogformat/seedling/</guid>
       <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
 For example, this panelset:
 Hello! 👋 hello
@@ -88,48 +88,48 @@ Question Which came first: the 🐔 or the 🥚?</description>
     
     <item>
       <title>Tachyons for Style</title>
-      <link>elgetilab.github.io/tools/giraffes/</link>
+      <link>/tools/giraffes/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>elgetilab.github.io/tools/giraffes/</guid>
+      <guid>/tools/giraffes/</guid>
       <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort. Because Speed Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
     </item>
     
     <item>
       <title>CSS Grid Scaffold</title>
-      <link>elgetilab.github.io/publications_blogformat/css-grid-scaffold/</link>
+      <link>/publications_blogformat/css-grid-scaffold/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>elgetilab.github.io/publications_blogformat/css-grid-scaffold/</guid>
+      <guid>/publications_blogformat/css-grid-scaffold/</guid>
       <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
 Overview Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
     </item>
     
     <item>
       <title>Palmer Penguins</title>
-      <link>elgetilab.github.io/tools/penguins/</link>
+      <link>/tools/penguins/</link>
       <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>elgetilab.github.io/tools/penguins/</guid>
+      <guid>/tools/penguins/</guid>
       <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
 Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE.</description>
     </item>
     
     <item>
       <title>Bakeoff</title>
-      <link>elgetilab.github.io/tools/bakeoff/</link>
+      <link>/tools/bakeoff/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>elgetilab.github.io/tools/bakeoff/</guid>
+      <guid>/tools/bakeoff/</guid>
       <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
     </item>
     
     <item>
       <title>Built-in Contact Form</title>
-      <link>elgetilab.github.io/publications_blogformat/built-in-contact-form/</link>
+      <link>/publications_blogformat/built-in-contact-form/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>elgetilab.github.io/publications_blogformat/built-in-contact-form/</guid>
+      <guid>/publications_blogformat/built-in-contact-form/</guid>
       <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
     </item>
     
