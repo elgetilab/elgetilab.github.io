@@ -1,4 +1,5 @@
 baseURL = "https://elgetilab.github.io"
+publishDir = "docs"
 theme = "hugo-apero"
 languageCode = "en"
 title = "The Elgeti Lab"
