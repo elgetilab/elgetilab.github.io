@@ -1,35 +1,36 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: build-site
+on:
+  schedule:
+    # * is a special character in YAML so we have to quote this string
+    # 3am Pacific = 11am UTC
+    # https://crontab.guru is your friend
+    - cron:  '0 12 * * *'
+
+name: theme-preview
 
 jobs:
-  build-site:
+  theme-preview:
     runs-on: macOS-latest
+    if: github.event_name == 'schedule' || contains(github.event.head_commit.message, '[theme]')
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v2
+      
       - uses: r-lib/actions/setup-r@v1
+
       - name: Install dependencies
         run: |
           install.packages("blogdown")
-          blogdown::install_hugo("0.79.0", extended=TRUE, force=TRUE)
+          blogdown::install_hugo("0.80.0", extended=TRUE, force=TRUE)
           blogdown::install_theme(theme="hugo-apero/hugo-apero", force=TRUE)
         shell: Rscript {0}
 
       - name: Build website
         run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
           Rscript -e 'blogdown::build_site(baseURL = "https://elgetilab.github.io/")'
-      - name: Add nojekyll
-        run: |
-          cd public/
-          touch .nojekyll
-          
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@3.6.2
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3.7.3
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: public # The folder the action should deploy.
-          CLEAN: true # Automatically remove deleted files from the deploy branch
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages  # default
