@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+content/collection
+content/publications_blogformat
+elements/
+talk/
+tools/
