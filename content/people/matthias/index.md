@@ -7,7 +7,7 @@ author: "Matthias Elgeti"
 draft: false
 categories:
 # layout options: single or single-sidebar
-layout: single-sidebar
+layout: single
 links:
 - icon: #cv
   icon_pack: ai
@@ -16,7 +16,7 @@ links:
 - icon: google-scholar
   icon_pack: ai
   name: google scholar
-  url: https://www.linkedin.com/in/matthias-elgeti-307952119/
+  url: https://scholar.google.com/citations?user=lIAFJpQAAAAJ
 - icon: github
   icon_pack: fab
   name: github
