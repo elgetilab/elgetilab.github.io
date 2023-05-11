@@ -20,6 +20,25 @@ beginning middle end </description>
     </item>
     
     <item>
+      <title>Julia Belyaeva</title>
+      <link>https://elgetilab.github.io/people/julia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgetilab.github.io/people/julia/</guid>
+      <description>Julia is currently finishing her master&amp;rsquo;s degree in Bioengineering and Bioinformatics at Lomonosov Moscow State University under the supervision of Dr. Andrey Golovin. She has also worked as a bioinformatician at BostonGene and Lactocore Inc on projects related to the development of cancer therapies and peptidic drugs targeted towards GPCRs, respectively. Julia will join the Elgeti Lab as a PhD student in the summer of 2023.
+Julia&amp;rsquo;s research interests include the biology of GPCRs with a particular focus on their medical applications, the exploration of biomacromolecules’ conformational dynamics, and the development of antibacterial peptides that can help address the growing issue of antibiotic resistance.</description>
+    </item>
+    
+    <item>
+      <title>Mahdi B. Helabad</title>
+      <link>https://elgetilab.github.io/people/mahdi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgetilab.github.io/people/mahdi/</guid>
+      <description>Mahdi is a computational biophysicist interested in understanding macromolecular interactions, structures, and dynamics, and how they relate to the function and behavior of biological systems. By utilizing computational methods in an integrative approach with experimental techniques such as NMR (mainly ssNMR) and DEER, he aims to gain a deeper understanding of the physical and chemical principles that govern the behavior of biological macromolecules. Specifically, he is interested in three different macromolecular systems: the sliding and search-to-recognition mechanism of transcription factors at the atomic level, the behavior of fibrillar aggregates with a focus on Huntington fibrils and their interactions with small molecules, and the biased agonism of G protein-coupled receptors (GPCRs) and their preferential signalling towards either G-proteins or β-arrestin.</description>
+    </item>
+    
+    <item>
       <title>Matthias Elgeti</title>
       <link>https://elgetilab.github.io/people/matthias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -227,9 +246,9 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       
       <guid>https://elgetilab.github.io/publications/</guid>
       <description>Publications *co-first author, ‡corresponding author
-Elgeti, M‡ and Hubbell, W.L. (2021). DEER Analysis of GPCR Conformational Heterogeneity. Biomolecules, 11: 778.
-Lerch, MT, Matt RA, Masureel M, Elgeti M, Kumar KK, Hilger D, Foys B, Kobilka BK, Hubbell WL (2020) Viewing Rare Conformations of the β2-Adrenergic Receptor with Pressure-Resolved DEER Spectroscopy. PNAS, 117: 31824–31.
-McMahon C, Staus DP, Wingler LM, Wang J, Skiba MA, Elgeti M, Hubbell WL, Rockman HA, Kruse AC, Lefkowitz RJ (2020).</description>
+Zhao J, Elgeti M*‡, O&amp;rsquo;Brien ES, Sár CP, Daibani AE, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C (2023). Conformational dynamics of the μ-opioid receptor determine ligand intrinsic efficacy. bioRxiv [Preprint]. doi: 10.1101/2023.04.28.538657.
+Elgeti, M‡ and Hubbell, WL (2021). DEER Analysis of GPCR Conformational Heterogeneity. Biomolecules, 11: 778.
+Lerch, MT, Matt RA, Masureel M, Elgeti M, Kumar KK, Hilger D, Foys B, Kobilka BK, Hubbell WL (2020).</description>
     </item>
     
   </channel>
