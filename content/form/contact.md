@@ -1,6 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: If you are interested in collaborating or joining the Elgeti Lab as a postdoctoral fellow, graduate student, or student assistant, please use the form on the right to get in touch.
+description: If you are interested in collaborating or joining the Elgeti Lab as a postdoctoral fellow, graduate student, or student assistant, please use the form on the right to get in touch.<br><br>Postal Address:<br>Institute for Medical Physics and Biophysics<br>Room 355<br>Leipzig University Medical School<br>Haertelstr. 14-16<br>04107 Leipzig<br>+49 341 97 15774
 draft: false
 formspree_form_id: xnqydayq
 layout: split-right
