@@ -10,15 +10,17 @@ title: Publications
 
 *co-first author, ‡corresponding author
 
-**Elgeti, M**‡ and Hubbell, W.L. (2021). DEER Analysis of GPCR Conformational Heterogeneity. *Biomolecules, 11:* 778.
+Zhao J, **Elgeti M**\*‡, O'Brien ES, Sár CP, Daibani AE, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C (2023). Conformational dynamics of the μ-opioid receptor determine ligand intrinsic efficacy. *bioRxiv [Preprint]*. doi: 10.1101/2023.04.28.538657.
 
-Lerch, MT, Matt RA, Masureel M, **Elgeti M**, Kumar KK, Hilger D, Foys B, Kobilka BK, Hubbell WL (2020) Viewing Rare Conformations of the β2-Adrenergic Receptor with Pressure-Resolved DEER Spectroscopy. *PNAS, 117:* 31824–31.
+**Elgeti, M**‡ and Hubbell, WL (2021). DEER Analysis of GPCR Conformational Heterogeneity. *Biomolecules, 11:* 778.
+
+Lerch, MT, Matt RA, Masureel M, **Elgeti M**, Kumar KK, Hilger D, Foys B, Kobilka BK, Hubbell WL (2020). Viewing Rare Conformations of the β2-Adrenergic Receptor with Pressure-Resolved DEER Spectroscopy. *PNAS, 117:* 31824–31.
 
 McMahon C, Staus DP, Wingler LM, Wang J, Skiba MA, **Elgeti M**, Hubbell WL, Rockman HA, Kruse AC, Lefkowitz RJ (2020). Synthetic Nanobodies as Angiotensin Receptor Blockers. *PNAS, 117:* 20284–91.
 
-Hellwig S, Grittner U, **Elgeti M**, Wyschkon S, Fiebach JB, Krause T, Herm J, Scheitz JF, Endres M, Nolte CH, Haeusler KG, Elgeti T (2020) Evaluation of left ventricular function in patients with acute ischaemic stroke using cine cardiovascular magnetic resonance imaging. *ESC Heart Failure, 7:* 2572–2580.
+Hellwig S, Grittner U, **Elgeti M**, Wyschkon S, Fiebach JB, Krause T, Herm J, Scheitz JF, Endres M, Nolte CH, Haeusler KG, Elgeti T (2020). Evaluation of left ventricular function in patients with acute ischaemic stroke using cine cardiovascular magnetic resonance imaging. *ESC Heart Failure, 7:* 2572–2580.
 
-Schaafs LA, Wyschkon S, **Elgeti M**, Nagel SN, Knebel F, Steffen IG, Makowski MR, Hamm B, Elgeti T (2020) Diagnosis of Left Ventricular Diastolic Dysfunction Using Cardiac Magnetic Resonance Imaging: Comparison of Volume-Time Curves Derived from Long- and Short-Axis Cine Steady-State Free Precession Datasets. *Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 192:* 764–775.
+Schaafs LA, Wyschkon S, **Elgeti M**, Nagel SN, Knebel F, Steffen IG, Makowski MR, Hamm B, Elgeti T (2020). Diagnosis of Left Ventricular Diastolic Dysfunction Using Cardiac Magnetic Resonance Imaging: Comparison of Volume-Time Curves Derived from Long- and Short-Axis Cine Steady-State Free Precession Datasets. *Fortschritte auf dem Gebiet der Röntgenstrahlen und der bildgebenden Verfahren, 192:* 764–775.
 
 Wingler LM, **Elgeti, M**\*, Hilger, D, Latorraca, NR, Lerch, MT, Staus, DP, Dror, RO, Kobilka, BK, Hubbell, WL, Lefkowitz, RJ (2019). Angiotensin Analogs with Divergent Bias Stabilize Distinct Receptor Conformations. *Cell 176:* 468-78.
 
