@@ -140,10 +140,15 @@ enableEmoji = true
 #    url = "/tools/"
 #    weight = 4
   [[menu.header]]
+    name = "Join"
+    title = "Join"
+    url = "/join/"
+    weight = 4
+  [[menu.header]]
     name = "Contact"
     title = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 5
     
   # Configure footer  
 #  [[menu.footer]]
