@@ -10,7 +10,12 @@ title: Publications
 
 *co-first author, ‡corresponding author
 
-Zhao J, **Elgeti M**\*‡, O'Brien ES, Sár CP, Daibani AE, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C (2023). Conformational dynamics of the μ-opioid receptor determine ligand intrinsic efficacy. *bioRxiv [Preprint]*. doi: 10.1101/2023.04.28.538657.
+## Preprints
+
+Zhao J, **Elgeti M**\*‡, O'Brien ES, Sár CP, Daibani AE, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C (2023). Conformational dynamics of the μ-opioid receptor determine ligand intrinsic efficacy. *bioRxiv 2023.04.28.538657*
+
+
+## Publications
 
 **Elgeti, M**‡ and Hubbell, WL (2021). DEER Analysis of GPCR Conformational Heterogeneity. *Biomolecules, 11:* 778.
 
