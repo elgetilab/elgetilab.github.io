@@ -1,6 +1,6 @@
 ---
 title: "Matthias Elgeti"
-date: "2023-12-31"
+date: "2023-06-01"
 subtitle: "Research Group Leader"
 excerpt: "Research Group Leader"
 weight: 1
