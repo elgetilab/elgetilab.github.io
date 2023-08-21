@@ -8,7 +8,7 @@ title: Our research
 
 <h1 class="f1">Our research</h1>
 
-Proteins “at work” constantly change shape in order to interact with binding partners such as ligands or other proteins. Membrane proteins in particular exhibit a high degree of flexibility to control transmembrane signaling processes. In the Elgeti Lab, we utilize electron paramagnetic resonance (EPR) spectroscopy and other biophysical and biochemical methods to characterize and understand membrane proteins. Our research connects protein structure to function and contributes to the development of more efficacious therapeutics with fewer side effects.
+Proteins “at work” constantly change shape in order to interact with binding partners such as ligands or other proteins. Membrane proteins in particular exhibit a high degree of flexibility to control transmembrane signaling processes. In the Elgeti Lab, we utilize electron paramagnetic resonance (EPR) spectroscopy and other biophysical, biochemical, and computational methods to characterize and understand membrane proteins. Our research connects protein structure to function and contributes to the development of more efficacious therapeutics with fewer side effects.
 
 <h3 class="f3">Collaborators</h3>
 
