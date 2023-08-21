@@ -1,9 +1,10 @@
 ---
 title: "Mahdi B. Helabad"
-subtitle: ""
-excerpt: ""
+date: "2022-12-31"
+subtitle: "Postdoctoral Scholar"
+excerpt: "Postdoctoral Scholar"
 weight: 1
-author: "Mahdi B. Helabad"
+author: ""
 draft: false
 categories:
 # layout options: single or single-sidebar

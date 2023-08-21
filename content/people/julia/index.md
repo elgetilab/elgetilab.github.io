@@ -1,9 +1,10 @@
 ---
 title: "Julia Belyaeva"
-subtitle: ""
-excerpt: ""
+date: "2021-12-31"
+subtitle: "Graduate Student"
+excerpt: "Graduate Student"
 weight: 1
-author: "Julia Belyaeva"
+author: ""
 draft: false
 categories:
 # layout options: single or single-sidebar

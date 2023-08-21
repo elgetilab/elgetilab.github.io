@@ -1,9 +1,10 @@
 ---
 title: "Matthias Elgeti"
-subtitle: ""
-excerpt: ""
+date: "2023-12-31"
+subtitle: "Research Group Leader"
+excerpt: "Research Group Leader"
 weight: 1
-author: "Matthias Elgeti"
+author: ""
 draft: false
 categories:
 # layout options: single or single-sidebar
