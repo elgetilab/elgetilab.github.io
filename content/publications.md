@@ -17,6 +17,8 @@ Zhao J, **Elgeti M**\*‡, O'Brien ES, Sár CP, Daibani AE, Heng J, Sun X, Che T
 
 ## Publications
 
+Wygas MM, Laugwitz JM, Schmidt P, **Elgeti M**, Kaiser A. Dynamics of the Second Extracellular Loop Control Transducer Coupling of Peptide-Activated GPCRs. (2023). *International Journal of Molecular Sciences,  24 (15):*12197.
+
 **Elgeti, M**‡ and Hubbell, WL (2021). DEER Analysis of GPCR Conformational Heterogeneity. *Biomolecules, 11:* 778.
 
 Lerch, MT, Matt RA, Masureel M, **Elgeti M**, Kumar KK, Hilger D, Foys B, Kobilka BK, Hubbell WL (2020). Viewing Rare Conformations of the β2-Adrenergic Receptor with Pressure-Resolved DEER Spectroscopy. *PNAS, 117:* 31824–31.
