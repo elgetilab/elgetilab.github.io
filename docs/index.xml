@@ -6,23 +6,20 @@
     <description>Recent content on The Elgeti Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://elgetilab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://elgetilab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A first post</title>
-      <link>https://elgetilab.github.io/publications_blogformat/spoonful-series/01-spoonful/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Mahdi B. Helabad</title>
+      <link>https://elgetilab.github.io/people/mahdi/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://elgetilab.github.io/publications_blogformat/spoonful-series/01-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/publications_blogformat/spoonful-series/01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: publications_blogformat My layout is: single-series does this work? or this? Let&amp;rsquo;s start.
-beginning middle end </description>
+      <guid>https://elgetilab.github.io/people/mahdi/</guid>
+      <description>Mahdi is a computational biophysicist interested in understanding macromolecular interactions, structures, and dynamics, and how they relate to the function and behavior of biological systems. By utilizing computational methods in an integrative approach with experimental techniques such as NMR (mainly ssNMR) and DEER, he aims to gain a deeper understanding of the physical and chemical principles that govern the behavior of biological macromolecules. Specifically, he is interested in three different macromolecular systems: the sliding and search-to-recognition mechanism of transcription factors at the atomic level, the behavior of fibrillar aggregates with a focus on Huntington fibrils and their interactions with small molecules, and the biased agonism of G protein-coupled receptors (GPCRs) and their preferential signalling towards either G-proteins or β-arrestin.</description>
     </item>
     
     <item>
       <title>Julia Belyaeva</title>
       <link>https://elgetilab.github.io/people/julia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://elgetilab.github.io/people/julia/</guid>
       <description>Julia is currently finishing her master&amp;rsquo;s degree in Bioengineering and Bioinformatics at Lomonosov Moscow State University under the supervision of Dr. Andrey Golovin. She has also worked as a bioinformatician at BostonGene and Lactocore Inc on projects related to the development of cancer therapies and peptidic drugs targeted towards GPCRs, respectively. Julia will join the Elgeti Lab as a PhD student in the summer of 2023.
@@ -30,185 +27,13 @@ Julia&amp;rsquo;s research interests include the biology of GPCRs with a particu
     </item>
     
     <item>
-      <title>Mahdi B. Helabad</title>
-      <link>https://elgetilab.github.io/people/mahdi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Paula Kosel</title>
+      <link>https://elgetilab.github.io/people/paula/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://elgetilab.github.io/people/mahdi/</guid>
-      <description>Mahdi is a computational biophysicist interested in understanding macromolecular interactions, structures, and dynamics, and how they relate to the function and behavior of biological systems. By utilizing computational methods in an integrative approach with experimental techniques such as NMR (mainly ssNMR) and DEER, he aims to gain a deeper understanding of the physical and chemical principles that govern the behavior of biological macromolecules. Specifically, he is interested in three different macromolecular systems: the sliding and search-to-recognition mechanism of transcription factors at the atomic level, the behavior of fibrillar aggregates with a focus on Huntington fibrils and their interactions with small molecules, and the biased agonism of G protein-coupled receptors (GPCRs) and their preferential signalling towards either G-proteins or β-arrestin.</description>
-    </item>
-    
-    <item>
-      <title>Matthias Elgeti</title>
-      <link>https://elgetilab.github.io/people/matthias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/people/matthias/</guid>
-      <description>Matthias is currently a Research Scientist at UCLA. He completed his PhD in Biophysics at the Humboldt Universität zu Berlin under the supervision of Drs. Franz Bartl and Klaus Peter Hofmann. He then completed postdoctoral training at UCLA, under the supervision of Dr. Wayne Hubbell. In Spring 2023, Matthias will join the Institute for Drug Discovery and Institute for Medical Physics and Biophysics at the University of Leipzig as a Research Group Leader.</description>
-    </item>
-    
-    <item>
-      <title>A second post</title>
-      <link>https://elgetilab.github.io/publications_blogformat/spoonful-series/02-spoonful/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/publications_blogformat/spoonful-series/02-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/publications_blogformat/spoonful-series/02-spoonful/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: publications_blogformat My layout is: single-series Images in this page bundle: /publications_blogformat/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
-    </item>
-    
-    <item>
-      <title>A third post</title>
-      <link>https://elgetilab.github.io/publications_blogformat/spoonful-series/03-spoonful/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/publications_blogformat/spoonful-series/03-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/publications_blogformat/spoonful-series/03-spoonful/index.markdown Here is my R Markdown source file: publications_blogformat/spoonful-series/03-spoonful/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
-To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: publications_blogformat My layout is: single-series Images in this page bundle: /publications_blogformat/spoonful-series/03-spoonful/featured-photo.</description>
-    </item>
-    
-    <item>
-      <title>DEER Analysis of GPCR Conformational Heterogeneity</title>
-      <link>https://elgetilab.github.io/publications_blogformat/2022-biomolecules/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/publications_blogformat/2022-biomolecules/</guid>
-      <description>Brief summary of the paper Elgeti, M., Hubbell, W.L. (2021). DEER Analysis of GPCR Conformational Heterogeneity. Biomolecules, 11, 778. https://doi.org/10.3390/biom11060778</description>
-    </item>
-    
-    <item>
-      <title>Style your site colors</title>
-      <link>https://elgetilab.github.io/publications_blogformat/color-themes/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/publications_blogformat/color-themes/</guid>
-      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
-Use a color theme Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS. You can select the color theme in your config.</description>
-    </item>
-    
-    <item>
-      <title>Style your site typography</title>
-      <link>https://elgetilab.github.io/publications_blogformat/fonts/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/publications_blogformat/fonts/</guid>
-      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
-Embedded fonts Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content ❤️!</description>
-    </item>
-    
-    <item>
-      <title>An evergreen post</title>
-      <link>https://elgetilab.github.io/publications_blogformat/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/publications_blogformat/evergreen/</guid>
-      <description>Rendering mathematical equations Examples from the mathjax demo. But they work with katex as well.
-Rmarkdown In .Rmarkdown documents, you can use either
-$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.
-And you can use
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.</description>
-    </item>
-    
-    <item>
-      <title>A campfire</title>
-      <link>https://elgetilab.github.io/talk/campfire/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/talk/campfire/</guid>
-      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
-    </item>
-    
-    <item>
-      <title>Using panelsets</title>
-      <link>https://elgetilab.github.io/publications_blogformat/seedling/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/publications_blogformat/seedling/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
-For example, this panelset:
-Hello! 👋 hello
-Goodbye 💨 goodbye
-Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:
-{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:
-Question Which came first: the 🐔 or the 🥚?</description>
-    </item>
-    
-    <item>
-      <title>A seedling</title>
-      <link>https://elgetilab.github.io/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      
-      <guid>https://elgetilab.github.io/talk/second-seedling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Rmarkdown post</title>
-      <link>https://elgetilab.github.io/publications_blogformat/rmarkdown/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/publications_blogformat/rmarkdown/</guid>
-      <description> Air quality with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
-    </item>
-    
-    <item>
-      <title>A seedling</title>
-      <link>https://elgetilab.github.io/talk/seedling/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      
-      <guid>https://elgetilab.github.io/talk/seedling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tachyons for Style</title>
-      <link>https://elgetilab.github.io/tools/giraffes/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/tools/giraffes/</guid>
-      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort. Because Speed Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
-    </item>
-    
-    <item>
-      <title>CSS Grid Scaffold</title>
-      <link>https://elgetilab.github.io/publications_blogformat/css-grid-scaffold/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/publications_blogformat/css-grid-scaffold/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
-Overview Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    
-    <item>
-      <title>Palmer Penguins</title>
-      <link>https://elgetilab.github.io/tools/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/tools/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1
-Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE.</description>
-    </item>
-    
-    <item>
-      <title>Bakeoff</title>
-      <link>https://elgetilab.github.io/tools/bakeoff/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/tools/bakeoff/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
-    </item>
-    
-    <item>
-      <title>Built-in Contact Form</title>
-      <link>https://elgetilab.github.io/publications_blogformat/built-in-contact-form/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/publications_blogformat/built-in-contact-form/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
+      <guid>https://elgetilab.github.io/people/paula/</guid>
+      <description>Paula joined the Elgeti Lab as a Technical Assistant in Summer 2023 to learn more about the complex field of membrane proteins. She completed her bachelor&amp;rsquo;s degree in biology at the Martin Luther University Halle-Wittenberg (2019) and her master&amp;rsquo;s degree in biology at the University of Leipzig (2023).
+During her studies, she gained practical experience in a variety of areas through various internships (Friedrich-Loeffler-Institute, Federal Research Institute for Animal Health, Alfred-Wegener-Institute Helmholtz Centre for Polar and Marine Research) and student assistantships (Max Planck Institute for Human Cognitive and Brain Science, Max Planck Institute for Evolutionary Anthropology).</description>
     </item>
     
     <item>
@@ -219,6 +44,16 @@ Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times
       <guid>https://elgetilab.github.io/contact/</guid>
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
 Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
+    </item>
+    
+    <item>
+      <title>Join</title>
+      <link>https://elgetilab.github.io/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgetilab.github.io/join/</guid>
+      <description>Join Join the Elgeti Lab as we build our team!
+Open positions Graduate student. Are you interested in protein design, hyperpolarization, and the development of new molecular sensors? Join Hyp*Mol, a new, collaborative, and interdisciplinary research program funded by the German Research Foundation. The open position is for a graduate (PhD) student, who will be mentored jointly by three PIs from Leipzig University (Matthias Elgeti, Irene Coin, and Jens Meiler.</description>
     </item>
     
     <item>
@@ -236,7 +71,7 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elgetilab.github.io/research/</guid>
-      <description>Our research Proteins “at work” constantly change shape in order to interact with binding partners such as ligands or other proteins. Membrane proteins in particular exhibit a high degree of flexibility to control transmembrane signaling processes. In the Elgeti Lab, we utilize electron paramagnetic resonance (EPR) spectroscopy and other biophysical and biochemical methods to characterize and understand membrane proteins. Our research connects protein structure to function and contributes to the development of more efficacious therapeutics with fewer side effects.</description>
+      <description>Our research Proteins “at work” constantly change shape in order to interact with binding partners such as ligands or other proteins. Membrane proteins in particular exhibit a high degree of flexibility to control transmembrane signaling processes. In the Elgeti Lab, we utilize electron paramagnetic resonance (EPR) spectroscopy and other biophysical, biochemical, and computational methods to characterize and understand membrane proteins. Our research connects protein structure to function and contributes to the development of more efficacious therapeutics with fewer side effects.</description>
     </item>
     
     <item>
@@ -246,9 +81,8 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       
       <guid>https://elgetilab.github.io/publications/</guid>
       <description>Publications *co-first author, ‡corresponding author
-Zhao J, Elgeti M*‡, O&amp;rsquo;Brien ES, Sár CP, Daibani AE, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C (2023). Conformational dynamics of the μ-opioid receptor determine ligand intrinsic efficacy. bioRxiv [Preprint]. doi: 10.1101/2023.04.28.538657.
-Elgeti, M‡ and Hubbell, WL (2021). DEER Analysis of GPCR Conformational Heterogeneity. Biomolecules, 11: 778.
-Lerch, MT, Matt RA, Masureel M, Elgeti M, Kumar KK, Hilger D, Foys B, Kobilka BK, Hubbell WL (2020).</description>
+Preprints Zhao J, Elgeti M*‡, O&amp;rsquo;Brien ES, Sár CP, Daibani AE, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C (2023). Conformational dynamics of the μ-opioid receptor determine ligand intrinsic efficacy. bioRxiv 2023.04.28.538657
+Published Wygas MM, Laugwitz JM, Schmidt P, Elgeti M, Kaiser A. Dynamics of the Second Extracellular Loop Control Transducer Coupling of Peptide-Activated GPCRs. (2023). *International Journal of Molecular Sciences, 24 (15):*12197.</description>
     </item>
     
   </channel>
