@@ -15,7 +15,7 @@ title: Publications
 Zhao J, **Elgeti M**\*‡, O'Brien ES, Sár CP, Daibani AE, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C (2023). Conformational dynamics of the μ-opioid receptor determine ligand intrinsic efficacy. *bioRxiv 2023.04.28.538657*
 
 
-## Publications
+## Published
 
 Wygas MM, Laugwitz JM, Schmidt P, **Elgeti M**, Kaiser A. Dynamics of the Second Extracellular Loop Control Transducer Coupling of Peptide-Activated GPCRs. (2023). *International Journal of Molecular Sciences,  24 (15):*12197.
 
