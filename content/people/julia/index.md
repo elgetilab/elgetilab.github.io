@@ -1,8 +1,8 @@
 ---
 title: "Julia Belyaeva"
 date: "2021-12-31"
-subtitle: "Graduate Student"
-excerpt: "Graduate Student"
+subtitle: "Doctoral Student"
+excerpt: "Doctoral Student"
 weight: 1
 author: ""
 draft: false
@@ -28,7 +28,7 @@ links:
   url: https://twitter.com/julybel5
 ---
 
-Julia is currently finishing her master's degree in Bioengineering and Bioinformatics at Lomonosov Moscow State University under the supervision of Dr. Andrey Golovin. She has also worked as a bioinformatician at BostonGene and Lactocore Inc on projects related to the development of cancer therapies and peptidic drugs targeted towards GPCRs, respectively. Julia will join the Elgeti Lab as a PhD student in the summer of 2023.
+Julia joined the Elgeti Lab as a PhD student in the summer of 2023. She completed her master's degree in Bioengineering and Bioinformatics at Lomonosov Moscow State University under the supervision of Dr. Andrey Golovin. She has also worked as a bioinformatician at BostonGene and Lactocore Inc on projects related to the development of cancer therapies and peptidic drugs targeted towards GPCRs, respectively.
 
 Julia's research interests include the biology of GPCRs with a particular focus on their medical applications, the exploration of biomacromolecules’ conformational dynamics, and the development of antibacterial peptides that can help address the growing issue of antibiotic resistance.
 

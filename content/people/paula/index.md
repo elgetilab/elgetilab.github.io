@@ -1,6 +1,6 @@
 ---
 title: "Paula Kosel"
-date: "2020-12-31"
+date: "2019-12-31"
 subtitle: "Technical Assistant"
 excerpt: "Technical Assistant"
 weight: 1
