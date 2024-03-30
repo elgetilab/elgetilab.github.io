@@ -3,7 +3,7 @@ title: "Matthias Elgeti"
 date: "2023-06-01"
 subtitle: "Research Group Leader"
 excerpt: "Research Group Leader"
-weight: 1
+weight: 5
 author: ""
 draft: false
 categories:

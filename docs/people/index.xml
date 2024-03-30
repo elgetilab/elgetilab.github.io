@@ -8,21 +8,23 @@
     <language>en</language>
     <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elgetilab.github.io/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Matthias Elgeti</title>
-      <link>https://elgetilab.github.io/people/matthias/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <title>Paula Kosel</title>
+      <link>https://elgetilab.github.io/people/paula/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://elgetilab.github.io/people/matthias/</guid>
-      <description>Matthias received his PhD in Biophysics from the Humboldt Universitaet zu Berlin, where he worked under the guidance of Drs. Klaus Peter Hofmann and Franz Bartl on time-resolved investigation of photoreactions of visual rhodopsin. He then received postdoctoral training in the laboratory of Dr. Wayne Hubbell at UCLA, where he began studying other G protein coupled receptors (GPCRs), such as the beta-adrenergic and angiotensin receptors, using electron paramagnetic resonance (EPR) spectroscopy.</description>
+      <guid>https://elgetilab.github.io/people/paula/</guid>
+      <description>Paula joined the Elgeti Lab as a Technical Assistant in Summer 2023 to learn more about the complex field of membrane proteins. She completed her bachelor&amp;rsquo;s degree in biology at the Martin Luther University Halle-Wittenberg (2019) and her master&amp;rsquo;s degree in biology at the University of Leipzig (2023).
+During her studies, she gained practical experience in a variety of areas through various internships (Friedrich-Loeffler-Institute, Federal Research Institute for Animal Health, Alfred-Wegener-Institute Helmholtz Centre for Polar and Marine Research) and student assistantships (Max Planck Institute for Human Cognitive and Brain Science, Max Planck Institute for Evolutionary Anthropology).</description>
     </item>
     
     <item>
-      <title>Mahdi B. Helabad</title>
-      <link>https://elgetilab.github.io/people/mahdi/</link>
-      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <title>Sebastian Krebs</title>
+      <link>https://elgetilab.github.io/people/sebastian/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://elgetilab.github.io/people/mahdi/</guid>
-      <description>Mahdi is a computational biophysicist interested in understanding macromolecular interactions, structures, and dynamics, and how they relate to the function and behavior of biological systems. By utilizing computational methods in an integrative approach with experimental techniques such as NMR (mainly ssNMR) and DEER, he aims to gain a deeper understanding of the physical and chemical principles that govern the behavior of biological macromolecules. Specifically, he is interested in three different macromolecular systems: the sliding and search-to-recognition mechanism of transcription factors at the atomic level, the behavior of fibrillar aggregates with a focus on Huntington fibrils and their interactions with small molecules, and the biased agonism of G protein-coupled receptors (GPCRs) and their preferential signalling towards either G-proteins or β-arrestin.</description>
+      <guid>https://elgetilab.github.io/people/sebastian/</guid>
+      <description>After finishing his master’s degree in biochemistry at the University of Leipzig under the supervision of Prof. Dr. Thorsten Berg, Sebastian joined the Life Science Technologies (LST) group at Bayer Pharmaceuticals as an intern. LST is part of the Drug Discovery Sciences department, with the ambition to understand complex biology and novel modalities. Sebastian joined the Elgeti lab as a PhD student in the November 2023.
+Sebastian is working on the in silico design of a flavomaquette to study polarization transfer in biological systems.</description>
     </item>
     
     <item>
@@ -36,13 +38,21 @@ Julia&amp;rsquo;s research interests include the biology of GPCRs with a particu
     </item>
     
     <item>
-      <title>Paula Kosel</title>
-      <link>https://elgetilab.github.io/people/paula/</link>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <title>Mahdi B. Helabad</title>
+      <link>https://elgetilab.github.io/people/mahdi/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://elgetilab.github.io/people/paula/</guid>
-      <description>Paula joined the Elgeti Lab as a Technical Assistant in Summer 2023 to learn more about the complex field of membrane proteins. She completed her bachelor&amp;rsquo;s degree in biology at the Martin Luther University Halle-Wittenberg (2019) and her master&amp;rsquo;s degree in biology at the University of Leipzig (2023).
-During her studies, she gained practical experience in a variety of areas through various internships (Friedrich-Loeffler-Institute, Federal Research Institute for Animal Health, Alfred-Wegener-Institute Helmholtz Centre for Polar and Marine Research) and student assistantships (Max Planck Institute for Human Cognitive and Brain Science, Max Planck Institute for Evolutionary Anthropology).</description>
+      <guid>https://elgetilab.github.io/people/mahdi/</guid>
+      <description>Mahdi is a computational biophysicist interested in understanding macromolecular interactions, structures, and dynamics, and how they relate to the function and behavior of biological systems. By utilizing computational methods in an integrative approach with experimental techniques such as NMR (mainly ssNMR) and DEER, he aims to gain a deeper understanding of the physical and chemical principles that govern the behavior of biological macromolecules. Specifically, he is interested in three different macromolecular systems: the sliding and search-to-recognition mechanism of transcription factors at the atomic level, the behavior of fibrillar aggregates with a focus on Huntington fibrils and their interactions with small molecules, and the biased agonism of G protein-coupled receptors (GPCRs) and their preferential signalling towards either G-proteins or β-arrestin.</description>
+    </item>
+    
+    <item>
+      <title>Matthias Elgeti</title>
+      <link>https://elgetilab.github.io/people/matthias/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgetilab.github.io/people/matthias/</guid>
+      <description>Matthias received his PhD in Biophysics from the Humboldt Universitaet zu Berlin, where he worked under the guidance of Drs. Klaus Peter Hofmann and Franz Bartl on time-resolved investigation of photoreactions of visual rhodopsin. He then received postdoctoral training in the laboratory of Dr. Wayne Hubbell at UCLA, where he began studying other G protein coupled receptors (GPCRs), such as the beta-adrenergic and angiotensin receptors, using electron paramagnetic resonance (EPR) spectroscopy.</description>
     </item>
     
   </channel>
