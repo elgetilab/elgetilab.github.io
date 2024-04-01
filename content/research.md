@@ -21,10 +21,10 @@ Proteins “at work” constantly change shape in order to interact with binding
 - [Grabe Lab](https://www.grabelab.org/)
 - [Coin Lab](https://www.lw.uni-leipzig.de/en/institute-of-biochemisty/coinlab)
 - [Scheerer Lab](https://biophysik.charite.de/en/research/protein_x_ray_crystallography_and_signal_transduction/)
-- [Berndt Lab](https://biochemie.medizin.uni-leipzig.de/mbch_cms/index.php/ag-liebscher/ag-berndt)
-- [Schmidt Lab](https://biophysik.medizin.uni-leipzig.de/research/dr-peter-schmidt/)
+- [Beck-Sickinger Lab](https://research.uni-leipzig.de/agbs/)
 
 <h3 class="f3">Collaborative Research Grants</h3>
+
 - [Hyperpolarization in molecular systems](https://www.hypmol.net/b7/)
-- [Structural Dynamics of GPCR Activation and Signaling](https://research.uni-leipzig.de/sfb1423/a03-elgeti-schmidt/)
+- [Structural dynamics of GPCR activation and signaling](https://research.uni-leipzig.de/sfb1423/a03-elgeti-schmidt/)
 
