@@ -23,7 +23,7 @@ Proteins “at work” constantly change shape in order to interact with binding
 - [Scheerer Lab](https://biophysik.charite.de/en/research/protein_x_ray_crystallography_and_signal_transduction/)
 - [Beck-Sickinger Lab](https://research.uni-leipzig.de/agbs/)
 
-<h3 class="f3">Collaborative Research Grants</h3>
+<h3 class="f3">Collaborative research grants</h3>
 
 - [Hyperpolarization in molecular systems](https://www.hypmol.net/b7/)
 - [Structural dynamics of GPCR activation and signaling](https://research.uni-leipzig.de/sfb1423/a03-elgeti-schmidt/)
