@@ -6,7 +6,25 @@
     <description>Recent content on The Elgeti Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elgetilab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elgetilab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Julia Belyaeva receives SECAI fellowship</title>
+      <link>https://elgetilab.github.io/news/2023-07-01_julia-fellowship/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgetilab.github.io/news/2023-07-01_julia-fellowship/</guid>
+      <description>Julia Belyaeva, a doctoral student in the Elgeti Lab, received a fellowship from the School of Embedded Composite Artificial Intelligence (SECAI; https://secai.org/de). The fellowship will support her doctoral studies at Leipzig University, which are focused on “Teaching artificial intelligence about protein dynamics.” Congrats, Julia!</description>
+    </item>
+    
+    <item>
+      <title>Elgeti Lab featured by the University of Leipzig</title>
+      <link>https://elgetilab.github.io/news/2023-06-23_ul-press-release/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgetilab.github.io/news/2023-06-23_ul-press-release/</guid>
+      <description>The Elgeti Lab was recently featured on the University of Leipzig&amp;rsquo;s website. Check out the article here!</description>
+    </item>
+    
     <item>
       <title>Paula Kosel</title>
       <link>https://elgetilab.github.io/people/paula/</link>
@@ -52,7 +70,7 @@ Julia&amp;rsquo;s research interests include the biology of GPCRs with a particu
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://elgetilab.github.io/people/matthias/</guid>
-      <description>Matthias received his PhD in Biophysics from the Humboldt Universitaet zu Berlin, where he worked under the guidance of Drs. Klaus Peter Hofmann and Franz Bartl on time-resolved investigation of photoreactions of visual rhodopsin. He then received postdoctoral training in the laboratory of Dr. Wayne Hubbell at UCLA, where he began studying other G protein coupled receptors (GPCRs), such as the beta-adrenergic and angiotensin receptors, using electron paramagnetic resonance (EPR) spectroscopy.</description>
+      <description>Matthias received his PhD in Biophysics from the Humboldt Universitaet zu Berlin, where he worked under the guidance of Drs. Klaus Peter Hofmann and Franz Bartl on time-resolved investigation of photoreactions of visual rhodopsin. He then received postdoctoral training in the laboratory of Dr. Wayne Hubbell at UCLA, where he studied other G protein coupled receptors (GPCRs), such as the beta-adrenergic and angiotensin receptors, using electron paramagnetic resonance (EPR) spectroscopy. In 2020, Matthias started his own independent research program at UCLA, which was focused on comparing different receptors to identify GPCR-conserved and receptor-specific mechanisms.</description>
     </item>
     
     <item>
@@ -71,8 +89,8 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elgetilab.github.io/join/</guid>
-      <description>JoinJoin the Elgeti Lab as we build our team!
-Open positionsGraduate student. Are you interested in protein design, hyperpolarization, and the development of new molecular sensors? Join Hyp*Mol, a new, collaborative, and interdisciplinary research program funded by the German Research Foundation. The open position is for a graduate (PhD) student, who will be mentored jointly by three PIs from Leipzig University (Matthias Elgeti, Irene Coin, and Jens Meiler.</description>
+      <description>Join Join the Elgeti Lab as we build our team!
+If you are interested in joining the lab as a postdoctoral fellow, graduate student, or student assistant, please contact Matthias here.</description>
     </item>
     
     <item>
@@ -90,7 +108,7 @@ Open positionsGraduate student. Are you interested in protein design, hyperpola
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elgetilab.github.io/research/</guid>
-      <description>Our researchProteins “at work” constantly change shape in order to interact with binding partners such as ligands or other proteins. Membrane proteins in particular exhibit a high degree of flexibility to control transmembrane signaling processes. In the Elgeti Lab, we utilize electron paramagnetic resonance (EPR) spectroscopy and other biophysical, biochemical, and computational methods to characterize and understand membrane proteins. Our research connects protein structure to function and contributes to the development of more efficacious therapeutics with fewer side effects.</description>
+      <description>Our research Proteins “at work” constantly change shape in order to interact with binding partners such as ligands or other proteins. Membrane proteins in particular exhibit a high degree of flexibility to control transmembrane signaling processes. In the Elgeti Lab, we utilize electron paramagnetic resonance (EPR) spectroscopy and other biophysical, biochemical, and computational methods to characterize and understand membrane proteins. Our research connects protein structure to function and contributes to the development of more efficacious therapeutics with fewer side effects.</description>
     </item>
     
     <item>
@@ -99,9 +117,9 @@ Open positionsGraduate student. Are you interested in protein design, hyperpola
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elgetilab.github.io/publications/</guid>
-      <description>Publications*co-first author, ‡corresponding author
-PreprintsZhao J, Elgeti M*‡, O&amp;rsquo;Brien ES, Sár CP, Daibani AE, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C (2023). Conformational dynamics of the μ-opioid receptor determine ligand intrinsic efficacy. bioRxiv 2023.04.28.538657. read online
-PublishedWygas MM, Laugwitz JM, Schmidt P, Elgeti M, Kaiser A. Dynamics of the Second Extracellular Loop Control Transducer Coupling of Peptide-Activated GPCRs. (2023). International Journal of Molecular Sciences, 24 (15): 12197.</description>
+      <description>Publications *co-first author, ‡corresponding author
+Preprints Zhao J, Elgeti M*‡, O&amp;rsquo;Brien ES, Sár CP, Daibani AE, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C (2023). Conformational dynamics of the μ-opioid receptor determine ligand intrinsic efficacy. bioRxiv 2023.04.28.538657. read online
+Published Wygas MM, Laugwitz JM, Schmidt P, Elgeti M, Kaiser A. Dynamics of the Second Extracellular Loop Control Transducer Coupling of Peptide-Activated GPCRs. (2023). International Journal of Molecular Sciences, 24 (15): 12197.</description>
     </item>
     
   </channel>
