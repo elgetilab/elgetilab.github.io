@@ -6,25 +6,7 @@
     <description>Recent content on The Elgeti Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elgetilab.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Julia Belyaeva receives SECAI fellowship</title>
-      <link>https://elgetilab.github.io/news/2023-07-01_julia-fellowship/</link>
-      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/news/2023-07-01_julia-fellowship/</guid>
-      <description>Julia Belyaeva, a doctoral student in the Elgeti Lab, received a fellowship from the School of Embedded Composite Artificial Intelligence (SECAI; https://secai.org/de). The fellowship will support her doctoral studies at Leipzig University, which are focused on “Teaching artificial intelligence about protein dynamics.” Congrats, Julia!</description>
-    </item>
-    
-    <item>
-      <title>Elgeti Lab featured by the University of Leipzig</title>
-      <link>https://elgetilab.github.io/news/2023-06-23_ul-press-release/</link>
-      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/news/2023-06-23_ul-press-release/</guid>
-      <description>The Elgeti Lab was recently featured on the University of Leipzig&amp;rsquo;s website. Check out the article here!</description>
-    </item>
-    
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://elgetilab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paula Kosel</title>
       <link>https://elgetilab.github.io/people/paula/</link>
@@ -43,6 +25,16 @@ During her studies, she gained practical experience in a variety of areas throug
       <guid>https://elgetilab.github.io/people/sebastian/</guid>
       <description>After finishing his master’s degree in biochemistry at the University of Leipzig under the supervision of Prof. Dr. Thorsten Berg, Sebastian joined the Life Science Technologies (LST) group at Bayer Pharmaceuticals as an intern. LST is part of the Drug Discovery Sciences department, with the ambition to understand complex biology and novel modalities. Sebastian joined the Elgeti lab as a PhD student in the November 2023.
 Sebastian is working on the in silico design of a flavomaquette to study polarization transfer in biological systems.</description>
+    </item>
+    
+    <item>
+      <title>Dilara Öğütcü</title>
+      <link>https://elgetilab.github.io/people/dilara/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgetilab.github.io/people/dilara/</guid>
+      <description>Dilara joined the Elgeti Lab in the Winter semester of 2023. She completed her bachelor&amp;rsquo;s and master&amp;rsquo;s degrees in Biology at the Middle East Technical University in Turkey. She worked on adhesion GPCRs during her master&amp;rsquo;s study and subsequently gained experience in structural biology during her internship at the Rudolf Schönheimer Institute for Biochemistry at the University of Leipzig under the supervision of Dr. Sandra Berndt.
+Dilara&amp;rsquo;s research is focused on understanding the dynamics of subtype selectivity on peptide receptors of GPCRs.</description>
     </item>
     
     <item>
@@ -104,6 +96,15 @@ If you are interested in joining the lab as a postdoctoral fellow, graduate stud
     
     <item>
       <title>Our research</title>
+      <link>https://elgetilab.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgetilab.github.io/news/</guid>
+      <description>News New paper on structural underpinnings of the µ-opioid receptor April 10, 2024 Our collaborative project on the structural underpinnings of super-efficacy at the µ-opioid receptor was recently published in Nature (link). Many thanks to the Kobilka (Stanford) and Chen (Tsinghua) labs for a great collaboration. Sebastian Krebs presents poster at RSC ESR Conference April 9, 2024 Doctoral student Sebastian Krebs presented his poster, &#34;Flavormaquettes with observer spin label for hyperpolarization EPR spectroscopy&#34;</description>
+    </item>
+    
+    <item>
+      <title>Our research</title>
       <link>https://elgetilab.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -118,8 +119,8 @@ If you are interested in joining the lab as a postdoctoral fellow, graduate stud
       
       <guid>https://elgetilab.github.io/publications/</guid>
       <description>Publications *co-first author, ‡corresponding author
-Preprints Zhao J, Elgeti M*‡, O&amp;rsquo;Brien ES, Sár CP, Daibani AE, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C (2023). Conformational dynamics of the μ-opioid receptor determine ligand intrinsic efficacy. bioRxiv 2023.04.28.538657. read online
-Published Wygas MM, Laugwitz JM, Schmidt P, Elgeti M, Kaiser A. Dynamics of the Second Extracellular Loop Control Transducer Coupling of Peptide-Activated GPCRs. (2023). International Journal of Molecular Sciences, 24 (15): 12197.</description>
+Zhao J, Elgeti M*‡, O&amp;rsquo;Brien ES, Sár CP, Daibani AE, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C (2023). Ligand efficacy modulates conformational dynamics of the μ-opioid receptor. (2024). Nature. read online | preprint
+Khan F, Elgeti M*‡, Grandfield S, Paz A, Naughton FB, Marcoline FV, Althoff T, Ermolova N, Wright EM, Hubbell WL, Grabe M, Abramson J. (2023). Nature Communications, 14: 7511.</description>
     </item>
     
   </channel>
