@@ -1,8 +1,8 @@
 ---
 title: "Martin Buhlmann"
 date: "2019-12-31"
-subtitle: "M.Sc. Student"
-excerpt: "M.Sc. Student"
+subtitle: "M. Sc. Student"
+excerpt: "M. Sc. Student"
 weight: 1
 author: ""
 draft: false
