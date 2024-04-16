@@ -1,12 +1,10 @@
 ---
 title: "Mahdi B. Helabad"
-date: "2022-12-31"
 subtitle: "Postdoctoral Scholar"
 excerpt: "Postdoctoral Scholar"
-weight: 4
+weight: 10
 author: ""
 draft: false
-categories:
 # layout options: single or single-sidebar
 layout: single
 links:
@@ -19,6 +17,9 @@ links:
   name: linkedin
   url: https://www.linkedin.com/in/mahdi-bagherpoor-helabad-0a497275/
 ---
+<center>
+<img src="featured.jpg" alt="Mahdi" style="height:300px;"> 
+</center>
 
 Mahdi is a computational biophysicist interested in understanding macromolecular interactions, structures, and dynamics, and how they relate to the function and behavior of biological systems. By utilizing computational methods in an integrative approach with experimental techniques such as NMR (mainly ssNMR) and DEER, he aims to gain a deeper understanding of the physical and chemical principles that govern the behavior of biological macromolecules. Specifically, he is interested in three different macromolecular systems: the sliding and search-to-recognition mechanism of transcription factors at the atomic level, the behavior of fibrillar aggregates with a focus on Huntington fibrils and their interactions with small molecules, and the biased agonism of G protein-coupled receptors (GPCRs) and their preferential signalling towards either G-proteins or β-arrestin.
 

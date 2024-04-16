@@ -1,12 +1,11 @@
 ---
 title: "Dilara Öğütcü"
-date: "2021-12-31"
 subtitle: "Doctoral Student"
 excerpt: "Doctoral Student"
-weight: 3
+weight: 22
+date: 798
 author: ""
 draft: false
-categories:
 # layout options: single or single-sidebar
 layout: single
 ---
