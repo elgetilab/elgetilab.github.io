@@ -34,7 +34,7 @@ enableEmoji = true
   description = "The Elgeti Lab"
   favicon = "/img/r1.png"
   logo = "/img/r1.png"
-  mainSections = ["research", "publications"]
+  mainSections = ["research", "people", "publications", "news", "join"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -149,11 +149,6 @@ enableEmoji = true
     title = "Contact"
     url = "/contact/"
     weight = 6
-#  [[menu.header]]
-#    name = "Tools"
-#    title = "Tools"
-#    url = "/tools/"
-#    weight = 7
     
   # Configure footer  
 #  [[menu.footer]]
