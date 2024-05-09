@@ -12,4 +12,9 @@ title: Join
 
 Join the Elgeti Lab as we build our team!
 
-If you are interested in joining the lab as a postdoctoral fellow, graduate student, or student assistant, please contact Matthias [here](https://elgetilab.github.io/contact/).
+<h3 class="f3">Open positions</h3>
+
+We are currently seeking a doctoral student to join the lab as part of hte integrated research graduate training program "<a href="https://research.uni-leipzig.de/sfb1423/graduate-school/">Structural Dynamics of GPCR Activation and Signaling</a>". If you are interested in studying how GPCRs achieve their specificity, <a href="https://elgetilab.github.io/contact/">contact Matthias</a> for more information.
+
+<h3 class="f3">Other opportunities</h3>
+If you are interested in joining the lab as a postdoctoral fellow, graduate student (Ph.D./M.Sc.), or student assistant, please <a href="https://elgetilab.github.io/contact/">contact Matthias</a>.
