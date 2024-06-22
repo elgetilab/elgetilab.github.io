@@ -68,7 +68,7 @@ Martin Buhlmann, chemistry Master student from Leipzig, has joined the Elgeti la
 <img src="../img/NatComm2023.jpg" width="500"></img>
 </center>
 
-In this project, we integrated DEER experiments with sugar uptake measurements, electrostatic calculations and kinetic modeling to evaluate the effect of membrane potentials.
+In this project, we integrated DEER experiments with sugar uptake measurements, electrostatic calculations and kinetic modeling to evaluate the effect of membrane potentials on vSGLT structure and transport activity.
 Many thanks to the Abramson (UCLA) and Grabe (UCSF) labs for a great collaboration. Read the article in <i>Nature Communications</i> (<a href="https://www.nature.com/articles/s41467-023-43119-z">read online</a>).
 <br><br>
 <hr>
