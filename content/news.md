@@ -3,7 +3,7 @@ description: News from the Elgeti Lab
 draft: false
 layout: standard
 show_title_as_headline: false
-title: Our research
+title: News
 ---
 
 <center>
@@ -20,10 +20,26 @@ TEXT
 <hr>
 --->
 
+<h3 class="f3">Lab interns</h3>
+<i>June 21, 2024</i>
+<br><br>
+
+<center>
+<img src="../img/Interns2024.jpg" width="600"></img>
+</center>
+
+Master students Lisa, Kristin, Ludwig and Anna joined the lab for an internship (module BCH-0815). They each gave excellent project presentations! We all enjoyed having you in the lab, great work!
+<br><br>
+<hr>
 
 <h3 class="f3">New paper on structural underpinnings of the µ-opioid receptor activation</h3>
 <i>April 10, 2024</i>
 <br><br>
+
+<center>
+<img src="../img/Nature2024.jpg" width="600"></img>
+</center>
+
 Our collaborative project on the structural underpinnings of super-efficacy at the µ-opioid receptor was recently published in <i>Nature</i> (<a href="https://doi.org/10.1038/s41586-024-07295-2">read online</a>). Many thanks to the Kobilka (Stanford) and Chen (Tsinghua) labs for a great collaboration. Check out the University of Leipzig's press release <a href="https://research.uni-leipzig.de/sfb1423/insight-into-the-molecular-causes-of-different-functions-of-the-opioid-receptor/">here</a>!
 <br><br>
 <hr>
@@ -41,6 +57,19 @@ Doctoral student Sebastian Krebs presented his poster, "Flavormaquettes with obs
 <i>March 1, 2024</i>
 <br><br>
 Martin Buhlmann, chemistry Master student from Leipzig, has joined the Elgeti lab for his thesis. Martin's research will focus on SDSL-EPR and different ligand binding modes in dynamic proteins. Welcome, Martin!
+<br><br>
+<hr>
+
+<h3 class="f3">New paper sugar transport by sodium glucose transporter vSGLT</h3>
+<i>November 18, 2023</i>
+<br><br>
+
+<center>
+<img src="../img/NatComm2023.jpg" width="500"></img>
+</center>
+
+In this project, we integrated DEER experiments with sugar uptake measurements, electrostatic calculations and kinetic modeling to evaluate the effect of membrane potentials.
+Many thanks to the Abramson (UCLA) and Grabe (UCSF) labs for a great collaboration. Read the article in <i>Nature Communications</i> (<a href="https://www.nature.com/articles/s41467-023-43119-z">read online</a>).
 <br><br>
 <hr>
 
