@@ -19,6 +19,18 @@ TEXT
 <br><br>
 <hr>
 --->
+<h3 class="f3">Pharmacy Science Day 2024</h3>
+<i>July 3, 2024</i>
+<br><br>
+
+<center>
+<img src="../img/PharmacyScience2024.jpg" width="800"></img>
+</center>
+
+Graduate students from the Elgeti lab presented their work at Leipzig University's first Pharmacy Science Day. Julia, Dilara and Sebastian showed posters, Martin gave a talk. Great job all of you!
+<br><br>
+<hr>
+
 
 <h3 class="f3">Lab interns</h3>
 <i>June 21, 2024</i>
@@ -60,7 +72,7 @@ Martin Buhlmann, chemistry Master student from Leipzig, has joined the Elgeti la
 <br><br>
 <hr>
 
-<h3 class="f3">New paper sugar transport by sodium glucose transporter vSGLT</h3>
+<h3 class="f3">New paper sugar on transport by sodium glucose transporter vSGLT</h3>
 <i>November 18, 2023</i>
 <br><br>
 
