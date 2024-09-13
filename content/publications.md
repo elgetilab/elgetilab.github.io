@@ -13,7 +13,8 @@ title: Publications
 Zhao J, **Elgeti M**\*‡, O'Brien ES, Sár CP, El Daibani A, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C. Ligand efficacy modulates conformational dynamics of the μ-opioid receptor. (2024). *Nature, 629:* 474-480. 
 <br>[read online](https://doi.org/10.1038/s41586-024-07295-2) | [preprint](https://www.biorxiv.org/content/10.1101/2023.04.28.538657v1)
 
-Khan F, **Elgeti M**\*‡, Grandfield S, Paz A, Naughton FB, Marcoline FV, Althoff T, Ermolova N, Wright EM, Hubbell WL, Grabe M, Abramson J. (2023). *Nature Communications, 14:* 7511. <br>[read online](https://www.nature.com/articles/s41467-023-43119-z)
+Khan F, **Elgeti M**\*‡, Grandfield S, Paz A, Naughton FB, Marcoline FV, Althoff T, Ermolova N, Wright EM, Hubbell WL, Grabe M, Abramson J. (2023). *Nature Communications, 14:* 7511. 
+<br>[read online](https://www.nature.com/articles/s41467-023-43119-z)
 
 Wygas MM, Laugwitz JM, Schmidt P, **Elgeti M**, Kaiser A. Dynamics of the Second Extracellular Loop Control Transducer Coupling of Peptide-Activated GPCRs. (2023). *International Journal of Molecular Sciences,  24 (15):* 12197.
 <br>[read online](https://www.mdpi.com/1422-0067/24/15/12197)

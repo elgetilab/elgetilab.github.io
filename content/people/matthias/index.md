@@ -11,7 +11,7 @@ links:
 - icon: #cv
   icon_pack: ai
   name: cv
-  url: "/people/matthias/20240412 Elgeti - CV.pdf"
+  url: "/people/matthias/20240913 Elgeti - CV.pdf"
 - icon: google-scholar
   icon_pack: ai
   name: google scholar
