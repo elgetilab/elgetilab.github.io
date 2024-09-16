@@ -19,6 +19,19 @@ TEXT
 <br><br>
 <hr>
 --->
+<h3 class="f3">New review on structural modeling using EPR constraints</h3>
+<i>September 16, 2024</i>
+<br><br>
+
+<center>
+<img src="../img/eLife2024.jpg" width="600"></img>
+</center>
+
+In preparation for Julia's PhD work, we wrote a review about structural modeling using EPR constraints. It was very interesting and important to summarize what's out there and which tools are missing. Today it's finally out in <i>eLife</i>. (<a href="https://elifesciences.org/articles/99770">read online</a>). Great job, Julia!
+<br><br>
+<hr>
+
+
 <h3 class="f3">Pharmacy Science Day 2024</h3>
 <i>July 3, 2024</i>
 <br><br>
