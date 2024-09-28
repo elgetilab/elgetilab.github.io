@@ -19,6 +19,39 @@ TEXT
 <br><br>
 <hr>
 --->
+<h3 class="f3">Martin Buhlmann defended master's thesis</h3>
+<i>September 26, 2024</i>
+<br><br>
+
+<center>
+<img src="../img/Martin_Buhlmann_masters_thesis.jpg" width="500"></img>
+</center>
+Martin Buhlmann successfully defended his master’s thesis, “<i>Exploring the Conformational Landscape of Maltose Binding Protein Using EPR Spectroscopy</i>”. 
+Martin is developing a framework to study the binding of GPCRs with ligands and intracellular protein partners. 
+
+Thank you, Martin, for your work and the exciting talk! We wish you an inspiring and interesting PhD journey!
+
+<br><br>
+<hr>
+
+
+<h3 class="f3">German Biophysical Society Meeting 2024</h3>
+<i>September 25, 2024</i>
+<br><br>
+
+<center>
+<img src="../img/DGfB2024_doctoral_students.jpg" width="800"></img>
+</center>
+Our group attended the German Biophysical Society Meeting 2024. Doctoral students Dilara, Julia and Sebastian presented their posters, 
+and Matthias Elgeti gave a talk. 
+
+In three conference days we had fruitful discussions, got helpful insights and just spent a good time with our colleagues. 
+Thanks to all of you!
+
+<br><br>
+<hr>
+
+
 <h3 class="f3">New review on structural modeling using EPR constraints</h3>
 <i>September 16, 2024</i>
 <br><br>
