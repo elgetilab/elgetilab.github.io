@@ -39,7 +39,7 @@ We are excited to keep Martin as a PhD student. He will be part of the collabora
 <br><br>
 
 <center>
-<img src="../img/DGfB2024_doctoral_students.jpg" width="800"></img>
+<img src="../img/DGfB2024_doctoral_students.jpg" width="600"></img>
 </center>
 Our group attended the German Biophysical Society Meeting 2024. Doctoral students Dilara, Julia and Sebastian presented their posters, Matthias gave a talk in the GPCR session. 
 
