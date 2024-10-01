@@ -19,17 +19,16 @@ TEXT
 <br><br>
 <hr>
 --->
-<h3 class="f3">Martin Buhlmann defended master's thesis</h3>
+<h3 class="f3">Martin Buhlmann joins the Elgeti lab for his PhD</h3>
 <i>September 26, 2024</i>
 <br><br>
-
-<center>
+<!--- <center>
 <img src="../img/Martin_Buhlmann_masters_thesis.jpg" width="500"></img>
 </center>
-Martin Buhlmann successfully defended his master’s thesis, “<i>Exploring the Conformational Landscape of Maltose Binding Protein Using EPR Spectroscopy</i>”. 
-Martin is developing a framework to study the binding of GPCRs with ligands and intracellular protein partners. 
+--->
+This week, Martin Buhlmann presented and successfully defended his master’s thesis titled: “<i>Exploring the Conformational Landscape of Maltose Binding Protein Using EPR Spectroscopy</i>” in which he applied a novel theoretical framework to study the ligand binding to the model protein MBP.
 
-Thank you, Martin, for your work and the exciting talk! We wish you an inspiring and interesting PhD journey!
+We are excited to keep Martin as a PhD student. He will be part of the collaborative research center "Structural Dynamics of GPCR Activation and Signaling" (SFB 1423).
 
 <br><br>
 <hr>
@@ -42,11 +41,9 @@ Thank you, Martin, for your work and the exciting talk! We wish you an inspiring
 <center>
 <img src="../img/DGfB2024_doctoral_students.jpg" width="800"></img>
 </center>
-Our group attended the German Biophysical Society Meeting 2024. Doctoral students Dilara, Julia and Sebastian presented their posters, 
-and Matthias Elgeti gave a talk. 
+Our group attended the German Biophysical Society Meeting 2024. Doctoral students Dilara, Julia and Sebastian presented their posters, Matthias gave a talk in the GPCR session. 
 
-In three conference days we had fruitful discussions, got helpful insights and just spent a good time with our colleagues. 
-Thanks to all of you!
+During the three day meeting, we had many discussions with interested attendees, and had a good time with our colleagues. Thanks to the organizers for this great conference!
 
 <br><br>
 <hr>
