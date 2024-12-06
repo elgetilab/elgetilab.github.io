@@ -19,12 +19,10 @@ TEXT
 <br><br>
 <hr>
 --->
-<h3 class="f3">Markus Fischer joins the Elgeti Lab</h3>
-<i>December 6, 2024</i>
+<h3 class="f3">Dr. Markus Fischer joins the Elgeti Lab</h3>
+<i>December 1, 2024</i>
 <br><br> 
-Markus Fischer joins the Elgeti Lab as a postdoctoral researcher. Markus has a strong background in physics and the development of small molecule ligands with neural networks. 
-
-In his research, Markus will focus on <i>developing methods to search for allosteric pockets in GPCRs and to design novel allosteric binding agents for them.</i> 
+Markus Fischer joins the Elgeti Lab as a postdoctoral researcher. Markus has a strong background in physics and machine learning. In his research, Markus will focus on <i>developing methods to search for allosteric pockets in GPCRs and the design novel allosteric binding agents for them.</i> 
 
 Welcome, Markus!
 
@@ -35,21 +33,11 @@ Welcome, Markus!
 <i>December 5, 2024</i>
 <br><br> 
 
-<center>
-<img src="../img/000.ME_SFB1423_WRetreat.jpg" width="300"></img>
-</center>
+Our group attended the SFB1423 Winter Retreat in Grimma. Doctoral students Dilara, Martin and Julia presented posters. 
 
-Our group attended the SFB1423 Winter Retreat in Grimma. Doctoral students Dilara, Martin and Julia presented their posters. 
+Dilara talked about establishing protocols for the expression of Y2 receptors in E. coli and HEK cells, and shared future plans. Martin reported on the technique for selecting spin labeling sites in protein molecules. He also presented a newly developed method to study the ligand-dependent conformational equilibria using DEER. Julia presented an updated version of the integrative approach to construct all-atom structural models of rare GPCR conformations from sparse DEER data. And Matthias gave talks on allosteric modulation of GPCRs and the role of conformational equilibria in signalling. 
 
-<i>Dilara</i> talked about establishing protocols for the expression of Y2 receptors in E. coli and HEK cells, and shared future plans. 
-
-<i>Martin</i> reported on the technique for selecting spin labelling sites in protein molecules. He also presented a newly developed method to study the ligand-dependent conformational equilibrium of a protein using DEER data. 
-
-<i>Julia</i> presented an updated version of the integrative approach to construct all-atom structural models of rare GPCR conformations from sparse DEER data. 
-
-<i>Matthias Elgeti</i> gave insightful talks on allosteric modulation of GPCRs and the role of GPCR conformational equilibria in signalling. 
-
-The retreat was full of theoretical discussions, sharing useful practical insights between members of the GPCR community. <i>Thank you all for your work and participation!</i>
+The retreat was full of discussions, sharing practical insights between members of the GPCR community. Thank you all for your work and participation!
 
 <br><br>
 <hr>
