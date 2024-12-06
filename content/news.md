@@ -19,13 +19,45 @@ TEXT
 <br><br>
 <hr>
 --->
+<h3 class="f3">Markus Fischer joins the Elgeti Lab</h3>
+<i>December 6, 2024</i>
+<br><br> 
+Markus Fischer joins the Elgeti Lab as a postdoctoral researcher. Markus has a strong background in physics and the development of small molecule ligands with neural networks. 
+
+In his research, Markus will focus on <i>developing methods to search for allosteric pockets in GPCRs and to design novel allosteric binding agents for them.</i> 
+
+Welcome, Markus!
+
+<br><br>
+<hr>
+
+<h3 class="f3">SFB1423 Winter Retreat</h3>
+<i>December 5, 2024</i>
+<br><br> 
+
+<center>
+<img src="../img/000.ME_SFB1423_WRetreat.jpg" width="300"></img>
+</center>
+
+Our group attended the SFB1423 Winter Retreat in Grimma. Doctoral students Dilara, Martin and Julia presented their posters. 
+
+<i>Dilara</i> talked about establishing protocols for the expression of Y2 receptors in E. coli and HEK cells, and shared future plans. 
+
+<i>Martin</i> reported on the technique for selecting spin labelling sites in protein molecules. He also presented a newly developed method to study the ligand-dependent conformational equilibrium of a protein using DEER data. 
+
+<i>Julia</i> presented an updated version of the integrative approach to construct all-atom structural models of rare GPCR conformations from sparse DEER data. 
+
+<i>Matthias Elgeti</i> gave insightful talks on allosteric modulation of GPCRs and the role of GPCR conformational equilibria in signalling. 
+
+The retreat was full of theoretical discussions, sharing useful practical insights between members of the GPCR community. <i>Thank you all for your work and participation!</i>
+
+<br><br>
+<hr>
+
+
 <h3 class="f3">Martin Buhlmann joins the Elgeti lab for his PhD</h3>
 <i>September 26, 2024</i>
 <br><br>
-<!--- <center>
-<img src="../img/Martin_Buhlmann_masters_thesis.jpg" width="500"></img>
-</center>
---->
 This week, Martin Buhlmann presented and successfully defended his master’s thesis titled: “<i>Exploring the Conformational Landscape of Maltose Binding Protein Using EPR Spectroscopy</i>” in which he applied a novel theoretical framework to study the ligand binding to the model protein MBP.
 
 We are excited to keep Martin as a PhD student. He will be part of the collaborative research center "Structural Dynamics of GPCR Activation and Signaling" (SFB 1423).
