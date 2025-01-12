@@ -26,11 +26,9 @@ links:
   url: https://twitter.com/julybel5
 ---
 <center>
-<img src="featured.jpg" alt="Julia" style="width:300px;height:300px;"> 
+<img src="featured.jpg" alt="Julia" style="width:290px;height:290px;"> 
 </center>
 
-Julia joined the Elgeti Lab as a PhD student in the summer of 2023. She completed her master's degree in Bioengineering and Bioinformatics at Lomonosov Moscow State University under the supervision of Dr. Andrey Golovin. She has also worked as a bioinformatician at BostonGene and Lactocore Inc on projects related to the development of cancer therapies and peptidic drugs targeted towards GPCRs, respectively.
+Julia joined the Elgeti Lab as a PhD student in the summer of 2023. She completed her master's degree in Bioengineering and Bioinformatics at Lomonosov Moscow State University. She has also worked as a bioinformatician at BostonGene and Lactocore Inc on projects related to the development of cancer therapies and peptidic drugs targeted towards GPCRs, respectively.
 
-Julia's research interests include the biology of GPCRs with a particular focus on their medical applications, the exploration of biomacromolecules’ conformational dynamics, and the development of antibacterial peptides that can help address the growing issue of antibiotic resistance.
-
-Additionally, she is a real cat & coffee lover.
+Now she is working on developing an integrative computational approach to model rare conformations of GPCRs from sparse experimental DEER data. She focuses on studying the conformational dynamics of GPCRs and the phenomenon of biased signaling. 

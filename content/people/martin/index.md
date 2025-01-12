@@ -9,8 +9,12 @@ draft: false
 # layout options: single or single-sidebar
 layout: single
 ---
-Martin is a chemistry student who is currently working on his M.Sc. thesis in the Elgeti Lab.
+<center>
+<img src="featured.jpg" alt="Martin" style="width:290px;height:290px;"> 
+</center>
 
-Alongside his bachelor’s degree, he gained experience in organic synthesis at HPC Standards GmbH, where he worked as a student assistant. He is also taking part in the Advanced course of study in analytics and spectroscopy at the University of Leipzig.
+Martin completed his M.Sc. in Chemistry at the University of Leipzig in September 2024, where he conducted his master’s thesis research in the Elgeti Lab. He has since joined the lab as a PhD student.
 
-His research topic is the investigation of the conformational landscape of the maltose-binding protein using EPR spectroscopy.
+Alongside his studies, Martin gained hands-on experience in organic synthesis as a student assistant at HPC Standards GmbH. In addition, he successfully completed the "<i>Advanced Course of Study in Analytics and Spectroscopy</i>" at the University of Leipzig in September 2024.
+
+His research centers on investigating the conformational landscape of the maltose-binding protein using EPR spectroscopy.
