@@ -17,12 +17,13 @@
     </item>
     
     <item>
-      <title>Mahdi B. Helabad</title>
-      <link>https://elgetilab.github.io/people/mahdi/</link>
+      <title>Markus Fischer</title>
+      <link>https://elgetilab.github.io/people/markus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elgetilab.github.io/people/mahdi/</guid>
-      <description>Mahdi is a computational biophysicist interested in understanding macromolecular interactions, structures, and dynamics, and how they relate to the function and behavior of biological systems. By utilizing computational methods in an integrative approach with experimental techniques such as NMR (mainly ssNMR) and DEER, he aims to gain a deeper understanding of the physical and chemical principles that govern the behavior of biological macromolecules. Specifically, he is interested in three different macromolecular systems: the sliding and search-to-recognition mechanism of transcription factors at the atomic level, the behavior of fibrillar aggregates with a focus on Huntington fibrils and their interactions with small molecules, and the biased agonism of G protein-coupled receptors (GPCRs) and their preferential signalling towards either G-proteins or β-arrestin.</description>
+      <guid>https://elgetilab.github.io/people/markus/</guid>
+      <description>Markus is a physicist by training who earned his master’s degree at TU Chemnitz, where he worked on Ornstein–Uhlenbeck processes. He later obtained his PhD at the Institute of Medical Physics under the supervision of Dr. Holger Scheidt, focusing on membrane interactions of small molecules and GNN-based interaction predictions.
+After completing his PhD, he worked in IT consulting before returning to academia by joining the Elgeti Lab in December 2024.</description>
     </item>
     
     <item>
@@ -31,8 +32,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elgetilab.github.io/people/julia/</guid>
-      <description>Julia joined the Elgeti Lab as a PhD student in the summer of 2023. She completed her master&amp;rsquo;s degree in Bioengineering and Bioinformatics at Lomonosov Moscow State University under the supervision of Dr. Andrey Golovin. She has also worked as a bioinformatician at BostonGene and Lactocore Inc on projects related to the development of cancer therapies and peptidic drugs targeted towards GPCRs, respectively.
-Julia&amp;rsquo;s research interests include the biology of GPCRs with a particular focus on their medical applications, the exploration of biomacromolecules’ conformational dynamics, and the development of antibacterial peptides that can help address the growing issue of antibiotic resistance.</description>
+      <description>Julia joined the Elgeti Lab as a PhD student in the summer of 2023. She completed her master&amp;rsquo;s degree in Bioengineering and Bioinformatics at Lomonosov Moscow State University. She has also worked as a bioinformatician at BostonGene and Lactocore Inc on projects related to the development of cancer therapies and peptidic drugs targeted towards GPCRs, respectively.
+Now she is working on developing an integrative computational approach to model rare conformations of GPCRs from sparse experimental DEER data.</description>
     </item>
     
     <item>
@@ -71,9 +72,8 @@ During her studies, she gained practical experience in a variety of areas throug
       <pubDate>Thu, 01 Jan 1970 01:08:20 +0100</pubDate>
       
       <guid>https://elgetilab.github.io/people/martin/</guid>
-      <description>Martin is a chemistry student who is currently working on his M.Sc. thesis in the Elgeti Lab.
-Alongside his bachelor’s degree, he gained experience in organic synthesis at HPC Standards GmbH, where he worked as a student assistant. He is also taking part in the Advanced course of study in analytics and spectroscopy at the University of Leipzig.
-His research topic is the investigation of the conformational landscape of the maltose-binding protein using EPR spectroscopy.</description>
+      <description>Martin completed his M.Sc. in Chemistry at the University of Leipzig in September 2024, where he conducted his master’s thesis research in the Elgeti Lab. He has since joined the lab as a PhD student.
+Alongside his studies, Martin gained hands-on experience in organic synthesis as a student assistant at HPC Standards GmbH. In addition, he successfully completed the &amp;ldquo;Advanced Course of Study in Analytics and Spectroscopy&amp;rdquo; at the University of Leipzig in September 2024.</description>
     </item>
     
   </channel>
