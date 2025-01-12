@@ -9,7 +9,7 @@ draft: false
 layout: single
 ---
 <center>
-<img src="featured.jpg" alt="Julia" style="width:290px;height:290px;"> 
+<img src="featured.jpg" alt="Markus" style="width:290px;height:290px;"> 
 </center>
 
 Markus is a physicist by profession who earned his master’s degree at TU Chemnitz, where he worked on Ornstein–Uhlenbeck processes. He later obtained his PhD at the Institute of Medical Physics under the supervision of Dr. Holger Scheidt, focusing on membrane interactions of small molecules and GNN-based interaction predictions. 

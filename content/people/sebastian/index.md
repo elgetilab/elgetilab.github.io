@@ -14,7 +14,7 @@ links:
   url: https://github.com/SebKrebs
 ---
 <center>
-<img src="featured.jpg" alt="Matthias" style="height:300px;"> 
+<img src="featured.jpg" alt="Sebastian" style="height:300px;"> 
 </center>
 
 After finishing his master’s degree in biochemistry at the University of Leipzig under the supervision of Prof. Dr. Thorsten Berg, Sebastian joined the Life Science Technologies (LST) group at Bayer Pharmaceuticals as an intern. LST is part of the Drug Discovery Sciences department, with the ambition to understand complex biology and novel modalities. Sebastian joined the Elgeti lab as a PhD student in the November 2023.
