@@ -2,7 +2,7 @@
 title: "Sebastian Krebs"
 subtitle: "Doctoral Student"
 excerpt: "Doctoral Student"
-weight: 21
+weight: 6
 author: ""
 draft: false
 # layout options: single or single-sidebar

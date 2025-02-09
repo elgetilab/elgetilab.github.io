@@ -2,7 +2,7 @@
 title: "Dilara Öğütcü"
 subtitle: "Doctoral Student"
 excerpt: "Doctoral Student"
-weight: 22
+weight: 8
 date: 798
 author: ""
 draft: false

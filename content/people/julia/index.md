@@ -2,7 +2,7 @@
 title: "Julia Belyaeva"
 subtitle: "Doctoral Student"
 excerpt: "Doctoral Student"
-weight: 20
+weight: 2
 author: ""
 draft: false
 # layout options: single or single-sidebar

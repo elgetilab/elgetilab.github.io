@@ -2,7 +2,7 @@
 title: "Paula Kosel"
 subtitle: "Technical Assistant"
 excerpt: "Technical Assistant"
-weight: 30
+weight: 5
 author: ""
 draft: false
 # layout options: single or single-sidebar

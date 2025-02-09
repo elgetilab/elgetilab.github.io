@@ -2,7 +2,7 @@
 title: "Martin Buhlmann"
 subtitle: "Doctoral Student"
 excerpt: "Doctoral Student"
-weight: 40
+weight: 3
 date: 500
 author: ""
 draft: false
@@ -17,4 +17,4 @@ Martin completed his M.Sc. in Chemistry at the University of Leipzig in Septembe
 
 Alongside his studies, Martin gained hands-on experience in organic synthesis as a student assistant at HPC Standards GmbH. In addition, he successfully completed the "<i>Advanced Course of Study in Analytics and Spectroscopy</i>" at the University of Leipzig in September 2024.
 
-Martin develops methods to investigate the conformational landscape of model proteins using EPR spectroscopy and computational modeling with the goal to apply these tools to GPCR research in the future.
+Martin develops methods to investigate the conformational landscape of model proteins using EPR spectroscopy and computational modeling with the goal to eventually apply these tools to GPCR research.

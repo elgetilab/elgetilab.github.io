@@ -17,6 +17,26 @@
     </item>
     
     <item>
+      <title>Julia Belyaeva</title>
+      <link>https://elgetilab.github.io/people/julia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgetilab.github.io/people/julia/</guid>
+      <description>Julia joined the Elgeti Lab as a PhD student in the summer of 2023. She completed her master&amp;rsquo;s degree in Bioengineering and Bioinformatics at Lomonosov Moscow State University. She has also worked as a bioinformatician at BostonGene and Lactocore Inc on projects related to the development of cancer therapies and peptidic drugs targeted towards GPCRs, respectively.
+Now she is working on developing an integrative computational approach to model rare conformations of GPCRs from sparse experimental DEER data.</description>
+    </item>
+    
+    <item>
+      <title>Martin Buhlmann</title>
+      <link>https://elgetilab.github.io/people/martin/</link>
+      <pubDate>Thu, 01 Jan 1970 01:08:20 +0100</pubDate>
+      
+      <guid>https://elgetilab.github.io/people/martin/</guid>
+      <description>Martin completed his M.Sc. in Chemistry at the University of Leipzig in September 2024, where he conducted his master’s thesis research in the Elgeti Lab. He has since joined the lab as a PhD student.
+Alongside his studies, Martin gained hands-on experience in organic synthesis as a student assistant at HPC Standards GmbH. In addition, he successfully completed the &amp;ldquo;Advanced Course of Study in Analytics and Spectroscopy&amp;rdquo; at the University of Leipzig in September 2024.</description>
+    </item>
+    
+    <item>
       <title>Markus Fischer</title>
       <link>https://elgetilab.github.io/people/markus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -27,13 +47,13 @@ After completing his PhD, he worked in IT consulting before returning to academi
     </item>
     
     <item>
-      <title>Julia Belyaeva</title>
-      <link>https://elgetilab.github.io/people/julia/</link>
+      <title>Paula Kosel</title>
+      <link>https://elgetilab.github.io/people/paula/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elgetilab.github.io/people/julia/</guid>
-      <description>Julia joined the Elgeti Lab as a PhD student in the summer of 2023. She completed her master&amp;rsquo;s degree in Bioengineering and Bioinformatics at Lomonosov Moscow State University. She has also worked as a bioinformatician at BostonGene and Lactocore Inc on projects related to the development of cancer therapies and peptidic drugs targeted towards GPCRs, respectively.
-Now she is working on developing an integrative computational approach to model rare conformations of GPCRs from sparse experimental DEER data.</description>
+      <guid>https://elgetilab.github.io/people/paula/</guid>
+      <description>Paula joined the Elgeti Lab as a Technical Assistant in Summer 2023 to learn more about the complex field of membrane proteins. She completed her bachelor’s degree in biology at the Martin Luther University Halle-Wittenberg (2019) and her master’s degree in biology at the University of Leipzig (2023).
+During her studies, she gained practical experience in a variety of areas through various internships (Friedrich-Loeffler-Institute, Federal Research Institute for Animal Health, Alfred-Wegener-Institute Helmholtz Centre for Polar and Marine Research) and student assistantships (Max Planck Institute for Human Cognitive and Brain Science, Max Planck Institute for Evolutionary Anthropology).</description>
     </item>
     
     <item>
@@ -57,23 +77,13 @@ Dilara&amp;rsquo;s research is focused on understanding the dynamics of subtype 
     </item>
     
     <item>
-      <title>Paula Kosel</title>
-      <link>https://elgetilab.github.io/people/paula/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/people/paula/</guid>
-      <description>Paula joined the Elgeti Lab as a Technical Assistant in Summer 2023 to learn more about the complex field of membrane proteins. She completed her bachelor’s degree in biology at the Martin Luther University Halle-Wittenberg (2019) and her master’s degree in biology at the University of Leipzig (2023).
-During her studies, she gained practical experience in a variety of areas through various internships (Friedrich-Loeffler-Institute, Federal Research Institute for Animal Health, Alfred-Wegener-Institute Helmholtz Centre for Polar and Marine Research) and student assistantships (Max Planck Institute for Human Cognitive and Brain Science, Max Planck Institute for Evolutionary Anthropology).</description>
-    </item>
-    
-    <item>
-      <title>Martin Buhlmann</title>
-      <link>https://elgetilab.github.io/people/martin/</link>
+      <title>Ivan Yushin</title>
+      <link>https://elgetilab.github.io/people/ivan/</link>
       <pubDate>Thu, 01 Jan 1970 01:08:20 +0100</pubDate>
       
-      <guid>https://elgetilab.github.io/people/martin/</guid>
-      <description>Martin completed his M.Sc. in Chemistry at the University of Leipzig in September 2024, where he conducted his master’s thesis research in the Elgeti Lab. He has since joined the lab as a PhD student.
-Alongside his studies, Martin gained hands-on experience in organic synthesis as a student assistant at HPC Standards GmbH. In addition, he successfully completed the &amp;ldquo;Advanced Course of Study in Analytics and Spectroscopy&amp;rdquo; at the University of Leipzig in September 2024.</description>
+      <guid>https://elgetilab.github.io/people/ivan/</guid>
+      <description>Ivan Yushin joined the Elgeti lab in January 2025 as Ph.D. student after finishing his Specialist degree in Chemistry at Novosibirsk State University, where he worked on structure and thermodynamics of DNA complexes.
+For his Ph.D. Ivan is integrating cutting-edge 3D printing technology with EPR spectroscopy and computational modeling, to facilitate screening of novel drug molecules.</description>
     </item>
     
     <item>
@@ -112,8 +122,7 @@ Other opportunitiesIf you are interested in joining the lab as a postdoctoral f
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elgetilab.github.io/news/</guid>
-      <description>NewsDr. Markus Fischer joins the Elgeti LabDecember 1, 2024Markus Fischer joins the Elgeti Lab as a postdoctoral researcher. Markus has a strong background in physics and machine learning. In his research, Markus will focus on developing methods to search for allosteric pockets in GPCRs and the design novel allosteric binding agents for them. Welcome, Markus!
-SFB1423 Winter RetreatDecember 5, 2024Our group attended the SFB1423 Winter Retreat in Grimma.</description>
+      <description>NewsIvan Yushin joins the Elgeti LabJanuary 27, 2025Ivan Yushin joins the Elgeti Lab as a PhD student. He will work on developing a new EPR flow system for ligand screening using 3D printing technology . Having a strong background in computational chemistry, he will also work on creating parameters for spin labels for Molecular Dynamics simulations .We are happy to have Ivan with us now!</description>
     </item>
     
     <item>
