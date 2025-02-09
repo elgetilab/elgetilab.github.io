@@ -19,6 +19,16 @@ TEXT
 <br><br>
 <hr>
 --->
+<h3 class="f3">Ivan Yushin joins the Elgeti Lab</h3>
+<i>January 27, 2025</i>
+<br><br> 
+Ivan Yushin joins the Elgeti Lab as a PhD student. He will work on developing <i> a new EPR flow system for ligand screening using 3D printing technology </i>. Having a strong background in computational chemistry, he will also work on creating <i> parameters for spin labels for Molecular Dynamics simulations </i>.
+
+We are happy to have Ivan with us now!
+
+<br><br>
+<hr>
+
 <h3 class="f3">Dr. Markus Fischer joins the Elgeti Lab</h3>
 <i>December 1, 2024</i>
 <br><br> 
