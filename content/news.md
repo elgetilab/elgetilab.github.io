@@ -19,6 +19,21 @@ TEXT
 <br><br>
 <hr>
 --->
+<h3 class="f3">Anna Krauspe defended her Master's thesis</h3>
+<i>May 26, 2025</i>
+<br><br> 
+
+<center>
+<img src="../img/Anna_Krauspe_defense.png" width="800"></img>
+</center>
+Our Master's student, Anna Krauspe, successfully defended her thesis. The thesis was titled "<i>The effect of solid-support attachment on the ligand binding affinity of the maltose binding protein (MBP)</i>". 
+
+Anna has already done a great job on the project, and even more exciting results are coming. 
+We wish her all the best for her future work!
+
+<br><br>
+<hr>
+
 <h3 class="f3">Ivan Yushin joins the Elgeti Lab</h3>
 <i>January 27, 2025</i>
 <br><br> 
