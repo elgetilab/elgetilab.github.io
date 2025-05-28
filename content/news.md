@@ -26,10 +26,10 @@ TEXT
 <center>
 <img src="../img/Anna_Krauspe_defense.png" width="800"></img>
 </center>
-Our Master's student, Anna Krauspe, successfully defended her thesis. The thesis was titled "<i>The effect of solid-support attachment on the ligand binding affinity of the maltose binding protein (MBP)</i>". 
+Anna successfully defended her master's thesis today. Her thesis was about the effects of solid-support attachment on MBP ligand binding.
+Keep up the good work!
 
-Anna has already done a great job on the project, and even more exciting results are coming. 
-We wish her all the best for her future work!
+Afterwards, we celebrated her at the beer garden, along with the nice weather!
 
 <br><br>
 <hr>
