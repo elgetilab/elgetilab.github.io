@@ -8,7 +8,7 @@ title: Join
 
 # Join
 
-![Lab Photo](../img/2024-05-01_lab-photo.jpg)
+![Lab Photo](../img/2025-06-1_lab-photo-cropped.jpg)
 
 Join the Elgeti Lab as we build our team!
 
