@@ -10,9 +10,11 @@ title: Publications
 
 *co-first author, ‡corresponding author
 
+**Elgeti M**‡, **Belyaeva J**\*, **Bagherpoor Helabad M**, Staus DP, Wingler LM‡. Angiotensin receptor conformations stabilized by biased ligands differentially modulate β-arrestin interactions. (2025). *Under review*
+<br>[preprint](https://doi.org/10.1101/2025.05.28.656666)
+
 **Belyaeva J, Elgeti M**‡. Exploring protein structural ensembles: Integration of sparse experimental data from electron paramagnetic resonance spectroscopy with molecular modeling methods. (2024). *eLife, 13:* e99770. 
 <br>[read online]( https://doi.org/10.7554/eLife.99770)
-
 
 Zhao J, **Elgeti M**\*‡, O'Brien ES, Sár CP, El Daibani A, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C. Ligand efficacy modulates conformational dynamics of the μ-opioid receptor. (2024). *Nature, 629:* 474-480. 
 <br>[read online](https://doi.org/10.1038/s41586-024-07295-2) | [preprint](https://www.biorxiv.org/content/10.1101/2023.04.28.538657v1)
