@@ -19,12 +19,35 @@ TEXT
 <br><br>
 <hr>
 --->
+<h3 class="f3">Pharmacy Science Day 2025</h3>
+<i>July 8, 2025</i>
+<br><br> 
+
+<center>
+<img src="../img/PharmacyScience2025.png" width="600"></img>
+</center>
+At this year's PSD, Patricia shared some insights into the power of EPR spectroscopy for investigating signaling proteins. Her practice paid off - no sign of nervousness, just having fun!
+
+All other lab members presented their work on posters - afterwards there was food and drinks to meet fellow students and PIs or discuss potential collaborations. Looking forward to next year!
+
+<br><br>
+<hr>
+
+<h3 class="f3">Patricia Schmidt successfully defended her Master's thesis</h3>
+<i>June 23, 2025</i>
+<br><br> 
+
+Today, Patricia defended her Master's thesis for which she is investigating the conformational dynamics of arrestin. The initial results are very exciting and I am sure that Patricia's passion for arrestin will pay off!
+
+<br><br>
+<hr>
+
 <h3 class="f3">Anna Krauspe defended her Master's thesis</h3>
 <i>May 26, 2025</i>
 <br><br> 
 
 <center>
-<img src="../img/Anna_Krauspe_defense.png" width="800"></img>
+<img src="../img/Anna_Krauspe_defense.png" width="600"></img>
 </center>
 Anna successfully defended her master's thesis today. Her thesis was about the effects of solid-support attachment on MBP ligand binding.
 Keep up the good work!
