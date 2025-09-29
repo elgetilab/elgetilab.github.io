@@ -14,11 +14,9 @@ links:
   url: https://https://www.linkedin.com/in/patricia-schmidt-a30a37383/
 ---
 <center>
-<img src="featured.jpg" alt="Julia" style="width:290px;height:290px;"> 
+<img src="featured.jpg" alt="Patricia" style="width:290px;height:290px;"> 
 </center>
 
-Patricia joined the Elgeti Lab as a PhD student in autumn 2025, after completing her M.Sc. in Biochemistry at the University of Leipzig.
+Patricia joined the Elgeti Lab as a PhD student in fall 2025, following her M.Sc. in Biochemistry at the University of Leipzig.
 
-She studies conformational states of arrestins, focusing mainly on arrestin-2, using EPR techniques. During her master’s studies, she gained experience in all the key experimental methods needed for EPR data analysis. 
-
-In the future, she also plans to expand her work to computational approaches to build high-quality all-atom models of arrestins with all molecular segments resolved.
+Her doctoral research will integrate EPR spectroscopy with computational approaches to investigate the conformational dynamics of arrestins and how these shape their diverse downstream signaling pathways.

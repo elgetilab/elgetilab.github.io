@@ -1,7 +1,7 @@
 ---
 title: "Anna Krauspe"
-subtitle: "Laboratory Manager"
-excerpt: "Laboratory Manager"
+subtitle: "Lab Manager"
+excerpt: "Lab Manager"
 weight: 9
 author: ""
 draft: false
@@ -9,10 +9,7 @@ draft: false
 layout: single
 ---
 <center>
-<img src="featured.jpg" alt="Julia" style="width:290px;height:290px;"> 
+<img src="featured.jpg" alt="Anna" style="width:290px;height:290px;"> 
 </center>
 
-After completing her M.Sc. at the University of Leipzig, Anna joined the Elgeti Lab as a Laboratory Manager.
-
-During her Master’s studies, she investigated binding of ligands by MBP using CW EPR as the main technique. 
-Now, having mastered key experimental techniques, Anna organizes and maintains the work of the experimental laboratory.
+During her Master’s studies in the Elgeti Lab, Anna developed a novel ligand-binding assay using CW EPR. We are excited that she will continue with us as our lab manager. With her strong background in biochemistry, her positive mindset, and her eagerness to master new techniques, Anna will be an invaluable support to all ongoing and future projects.

@@ -26,13 +26,10 @@ TEXT
 <center>
 <img src="../img/EPRSS_Manchester2025.png" width="600"></img>
 </center>
-Elgeti Lab members Anna Krauspe, Sebastian Krebs, and Martin Buhlmann attended the EPR Summer School 2025 in Manchester, UK.
+This summer, three of our students represented the Elgeti Lab at the EPR Summer School in Manchester.
+Anna and Martin presented their poster “Investigating conformational equilibria and ligand binding using EPR spectroscopy”, while Sebastian showcased his latest results on “Characterization of flavoprotein mr5411 with transient CW-EPR”.
 
-Martin and Anna presented a poster entitled <i>“Investigating conformational equilibria and ligand binding using EPR spectroscopy”</i>, while Sebastian presented his work entitled <i>“Characterization of flavoprotein mr5411with transient CW-EPR”</i>.
-
-Our colleagues took part in lectures and masterclasses led by leading EPR experts from across Europe and beyond, representing both academia and industry. They engaged in productive discussions, established new contacts, and further developed their knowledge and experimental skills.
-
-Great job!
+Beyond the scientific program, the Summer School offered a fantastic chance to connect with fellow graduate students, exchange ideas with leading EPR experts from academia and industry, and develop new skills in lectures and masterclasses. And, of course, our team also found time to explore Manchester — enjoying the city’s atmosphere and creating new friendships along the way.
 
 <br><br>
 <hr>

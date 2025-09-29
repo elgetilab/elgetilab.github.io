@@ -6,7 +6,7 @@
     <description>Recent content in Lab members on The Elgeti Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jan 1970 01:13:18 +0100</lastBuildDate><atom:link href="https://elgetilab.github.io/people/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 1969 19:13:18 -0500</lastBuildDate><atom:link href="https://elgetilab.github.io/people/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Matthias Elgeti</title>
       <link>https://elgetilab.github.io/people/matthias/</link>
@@ -29,7 +29,7 @@ Now she is working on developing an integrative computational approach to model 
     <item>
       <title>Martin Buhlmann</title>
       <link>https://elgetilab.github.io/people/martin/</link>
-      <pubDate>Thu, 01 Jan 1970 01:08:20 +0100</pubDate>
+      <pubDate>Wed, 31 Dec 1969 19:08:20 -0500</pubDate>
       
       <guid>https://elgetilab.github.io/people/martin/</guid>
       <description>Martin completed his M.Sc. in Chemistry at the University of Leipzig in September 2024, where he conducted his master’s thesis research in the Elgeti Lab. He has since joined the lab as a PhD student.
@@ -47,16 +47,6 @@ After completing his PhD, he worked in IT consulting before returning to academi
     </item>
     
     <item>
-      <title>Paula Kosel</title>
-      <link>https://elgetilab.github.io/people/paula/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://elgetilab.github.io/people/paula/</guid>
-      <description>Paula joined the Elgeti Lab as a Technical Assistant in Summer 2023 to learn more about the complex field of membrane proteins. She completed her bachelor’s degree in biology at the Martin Luther University Halle-Wittenberg (2019) and her master’s degree in biology at the University of Leipzig (2023).
-During her studies, she gained practical experience in a variety of areas through various internships (Friedrich-Loeffler-Institute, Federal Research Institute for Animal Health, Alfred-Wegener-Institute Helmholtz Centre for Polar and Marine Research) and student assistantships (Max Planck Institute for Human Cognitive and Brain Science, Max Planck Institute for Evolutionary Anthropology).</description>
-    </item>
-    
-    <item>
       <title>Sebastian Krebs</title>
       <link>https://elgetilab.github.io/people/sebastian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -69,7 +59,7 @@ Sebastian is working on the in silico design of a flavomaquette to study polariz
     <item>
       <title>Dilara Öğütcü</title>
       <link>https://elgetilab.github.io/people/dilara/</link>
-      <pubDate>Thu, 01 Jan 1970 01:13:18 +0100</pubDate>
+      <pubDate>Wed, 31 Dec 1969 19:13:18 -0500</pubDate>
       
       <guid>https://elgetilab.github.io/people/dilara/</guid>
       <description>Dilara joined the Elgeti Lab in the Winter semester of 2023. She completed her bachelor&amp;rsquo;s and master&amp;rsquo;s degrees in Biology at the Middle East Technical University in Turkey. She worked on adhesion GPCRs during her master&amp;rsquo;s study and subsequently gained experience in structural biology during her internship at the Rudolf Schönheimer Institute for Biochemistry at the University of Leipzig under the supervision of Dr. Sandra Berndt.
@@ -79,11 +69,30 @@ Dilara&amp;rsquo;s research is focused on understanding the dynamics of subtype 
     <item>
       <title>Ivan Yushin</title>
       <link>https://elgetilab.github.io/people/ivan/</link>
-      <pubDate>Thu, 01 Jan 1970 01:08:20 +0100</pubDate>
+      <pubDate>Wed, 31 Dec 1969 19:08:20 -0500</pubDate>
       
       <guid>https://elgetilab.github.io/people/ivan/</guid>
       <description>Ivan Yushin joined the Elgeti lab in January 2025 as Ph.D. student after finishing his Specialist degree in Chemistry at Novosibirsk State University, where he worked on structure and thermodynamics of DNA complexes.
 For his Ph.D. Ivan is integrating cutting-edge 3D printing technology with EPR spectroscopy and computational modeling, to facilitate screening of novel drug molecules.</description>
+    </item>
+    
+    <item>
+      <title>Patricia Schmidt</title>
+      <link>https://elgetilab.github.io/people/patricia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgetilab.github.io/people/patricia/</guid>
+      <description>Patricia joined the Elgeti Lab as a PhD student in fall 2025, following her M.Sc. in Biochemistry at the University of Leipzig.
+Her doctoral research will integrate EPR spectroscopy with computational approaches to investigate the conformational dynamics of arrestins and how these shape their diverse downstream signaling pathways.</description>
+    </item>
+    
+    <item>
+      <title>Anna Krauspe</title>
+      <link>https://elgetilab.github.io/people/anna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elgetilab.github.io/people/anna/</guid>
+      <description>During her Master’s studies in the Elgeti Lab, Anna developed a novel ligand-binding assay using CW EPR. We are excited that she will continue with us as our lab manager. With her strong background in biochemistry, her positive mindset, and her eagerness to master new techniques, Anna will be an invaluable support to all ongoing and future projects.</description>
     </item>
     
   </channel>
