@@ -2,7 +2,7 @@
 title: "Ivan Yushin"
 subtitle: "Doctoral Student"
 excerpt: "Doctoral Student"
-weight: 9
+weight: 7
 date: 500
 author: ""
 draft: false

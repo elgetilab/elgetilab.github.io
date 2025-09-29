@@ -19,6 +19,33 @@ TEXT
 <br><br>
 <hr>
 --->
+<h3 class="f3">EPR Summer School 2025, Manchester</h3>
+<i>September 1, 2025</i>
+<br><br> 
+
+<center>
+<img src="../img/EPRSS_Manchester2025.png" width="600"></img>
+</center>
+Elgeti Lab members Anna Krauspe, Sebastian Krebs, and Martin Buhlmann attended the EPR Summer School 2025 in Manchester, UK.
+
+Martin and Anna presented a poster entitled <i>“Investigating conformational equilibria and ligand binding using EPR spectroscopy”</i>, while Sebastian presented his work entitled <i>“Characterization of flavoprotein mr5411with transient CW-EPR”</i>.
+
+Our colleagues took part in lectures and masterclasses led by leading EPR experts from across Europe and beyond, representing both academia and industry. They engaged in productive discussions, established new contacts, and further developed their knowledge and experimental skills.
+
+Great job!
+
+<br><br>
+<hr>
+
+<h3 class="f3">Patricia Schmidt successfully defended her Master's thesis</h3>
+<i>June 23, 2025</i>
+<br><br> 
+
+Today, Patricia defended her Master's thesis for which she is investigating the conformational dynamics of arrestin. The initial results are very exciting and I am sure that Patricia's passion for arrestin will pay off!
+
+<br><br>
+<hr>
+
 <h3 class="f3">Pharmacy Science Day 2025</h3>
 <i>July 8, 2025</i>
 <br><br> 

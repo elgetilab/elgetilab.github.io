@@ -20,10 +20,6 @@ links:
   icon_pack: fab
   name: linkedin
   url: https://www.linkedin.com/in/julia-belyaeva-6987a6267/
-- icon: twitter
-  icon_pack: fab 
-  name: twitter
-  url: https://twitter.com/julybel5
 ---
 <center>
 <img src="featured.jpg" alt="Julia" style="width:290px;height:290px;"> 
