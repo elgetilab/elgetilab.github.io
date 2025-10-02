@@ -13,8 +13,8 @@ title: Publications
 **Elgeti M**‡, **Belyaeva J**\*, **Bagherpoor Helabad M**, Staus DP, Wingler LM‡. Angiotensin receptor conformations stabilized by biased ligands differentially modulate β-arrestin interactions. (2025). *Under review*
 <br>[preprint](https://doi.org/10.1101/2025.05.28.656666)
 
-Gupta V, Laugwitz J, Sklodowski M, Voitel M, Sala D, Kaiser A, **Elgeti M**, Meiler J, Huster D, Beck-Sickinger AG, Schmidt P, Penk A. Structural insights into the binding modes of arrestin-3 finger loop to the neuropeptide Y1 and Y2 receptors. 
-<br>[preprint](http://dx.doi.org/10.2139/ssrn.5126150)
+Gupta V, Laugwitz J, Sklodowski M, Voitel M, Sala D, Kaiser A, **Elgeti M**, Meiler J, Huster D, Beck-Sickinger AG, Schmidt P, Penk A. Structural insights into the binding modes of arrestin-3 finger loop to the neuropeptide Y1 and Y2 receptors.  (2025). *Structure, 33 (10):* 1728-1738. 
+<br>[read online](https://www.cell.com/structure/fulltext/S0969-2126(25)00260-6)
 
 **Belyaeva J, Elgeti M**‡. Exploring protein structural ensembles: Integration of sparse experimental data from electron paramagnetic resonance spectroscopy with molecular modeling methods. (2024). *eLife, 13:* e99770. 
 <br>[read online]( https://doi.org/10.7554/eLife.99770)
