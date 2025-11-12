@@ -19,6 +19,22 @@ TEXT
 <br><br>
 <hr>
 --->
+<h3 class="f3">Markus’ Project Funded by the Hyp*MOL Consortium</h3>
+<i>November 4-7, 2025</i>
+<br><br> 
+
+<center>
+<img src="../img/Markus_Chemnitz.jpg" width="600"></img>
+</center>
+Markus needs serious GPU power to train his graph neural networks — so he applied for funding from the Hyp*MOL consortium to build our own mini-cluster.
+His proposal was very well received and has been fully funded!
+
+At this year’s Hyp*MOL status meeting, Markus presented the background and current progress of his project to the community.
+Great job, Markus — way to go!
+
+<br><br>
+<hr>
+
 <h3 class="f3">EPR Summer School 2025, Manchester</h3>
 <i>September 1, 2025</i>
 <br><br> 
