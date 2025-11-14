@@ -39,12 +39,11 @@ Great job, Markus — way to go!
 <i>October 13-17, 2025</i>
 <br><br> 
 
-Our PhD students Dilara and Patricia took part in an EPR Workshop in Krakow.
-The event was both fun and interesting. Dilara and Patricia met new colleagues, exchanged ideas, and presented their work to the participants. 
+Our PhD students Dilara and Patricia recently traveled to Krakow (PL) to take part in the [International EPR Workshop](https://internationaleprworkshop.pl/).
 
-And a special highlight: Dilara won the prize for the best poster! Congratulations, Dilara — fantastic achievement! 
+The event offered a great mix of scientific exchange and networking opportunities. Dilara and Patricia met new colleagues, shared ideas, and presented their research to an engaged audience. They also took some time to explore the beautiful city of Krakow and sample its famous dumplings.
 
-Our PhD students also had time to explore the beautiful city of Krakow and enjoy some delicious knödel.
+A special highlight: **Dilara received the prize for the best poster!** Congratulations, Dilara — a fantastic achievement!
 
 <center>
 <img src="../img/Dilara_Patricia_Krakow.png" width="1200"></img>
