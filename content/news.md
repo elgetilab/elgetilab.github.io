@@ -35,12 +35,31 @@ Great job, Markus — way to go!
 <br><br>
 <hr>
 
+<h3 class="f3">EPR Workshop in Krakow</h3>
+<i>October 13-17, 2025</i>
+<br><br> 
+
+Our PhD students Dilara and Patricia took part in an EPR Workshop in Krakow.
+The event was both fun and interesting. Dilara and Patricia met new colleagues, exchanged ideas, and presented their work to the participants. 
+
+And a special highlight: Dilara won the prize for the best poster! Congratulations, Dilara — fantastic achievement! 
+
+Our PhD students also had time to explore the beautiful city of Krakow and enjoy some delicious knödel.
+
+<center>
+<img src="../img/Dilara_Patricia_Krakow.png" width="1200"></img>
+</center>
+
+
+<br><br>
+<hr>
+
 <h3 class="f3">EPR Summer School 2025, Manchester</h3>
 <i>September 1, 2025</i>
 <br><br> 
 
 <center>
-<img src="../img/EPRSS_Manchester2025.png" width="600"></img>
+<img src="../img/EPRSS_Manchester2025.png" width="1200"></img>
 </center>
 This summer, three of our students represented the Elgeti Lab at the EPR Summer School in Manchester.
 Anna and Martin presented their poster “Investigating conformational equilibria and ligand binding using EPR spectroscopy”, while Sebastian showcased his latest results on “Characterization of flavoprotein mr5411 with transient CW-EPR”.
