@@ -68,14 +68,6 @@ Beyond the scientific program, the Summer School offered a fantastic chance to c
 <br><br>
 <hr>
 
-<h3 class="f3">Patricia Schmidt successfully defended her Master's thesis</h3>
-<i>June 23, 2025</i>
-<br><br> 
-
-Today, Patricia defended her Master's thesis for which she is investigating the conformational dynamics of arrestin. The initial results are very exciting and I am sure that Patricia's passion for arrestin will pay off!
-
-<br><br>
-<hr>
 
 <h3 class="f3">Pharmacy Science Day 2025</h3>
 <i>July 8, 2025</i>
