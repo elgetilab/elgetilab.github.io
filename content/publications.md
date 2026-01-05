@@ -12,8 +12,7 @@ title: Publications
 
 **Belyaeva J** & **Elgeti M**‡. Reconstructing hidden GPCR conformations and ligand binding modes through integrative DEER modeling. *Under review*
 
-**Elgeti M**‡, **Belyaeva J**\*, **Bagherpoor Helabad M**, Staus DP, Wingler LM‡. Angiotensin receptor conformations stabilized by biased ligands differentially modulate β-arrestin interactions. (2025). *Under review*
-<br>[preprint](https://doi.org/10.1101/2025.05.28.656666)
+**Elgeti M**‡, **Belyaeva J**\*, **Bagherpoor Helabad M**, Staus DP, Wingler LM‡. Angiotensin receptor conformations stabilized by biased ligands differentially modulate β-arrestin interactions. *Journal of Biological Chemistry*. *Accepted* https://doi.org/10.1016/j.jbc.2025.111117. | <br>[preprint](https://doi.org/10.1101/2025.05.28.656666)
 
 Gupta V, Laugwitz J, Sklodowski M, Voitel M, Sala D, Kaiser A, **Elgeti M**, Meiler J, Huster D, Beck-Sickinger AG, Schmidt P, Penk A. Structural insights into the binding modes of arrestin-3 finger loop to the neuropeptide Y1 and Y2 receptors.  (2025). *Structure, 33 (10):* 1728-1738. 
 <br>[read online](https://www.cell.com/structure/fulltext/S0969-2126(25)00260-6)
