@@ -10,6 +10,8 @@ title: Publications
 
 *co-first author, ‡corresponding author
 
+**Belyaeva J** & **Elgeti M**‡. Reconstructing hidden GPCR conformations and ligand binding modes through integrative DEER modeling. *Under review*
+
 **Elgeti M**‡, **Belyaeva J**\*, **Bagherpoor Helabad M**, Staus DP, Wingler LM‡. Angiotensin receptor conformations stabilized by biased ligands differentially modulate β-arrestin interactions. (2025). *Under review*
 <br>[preprint](https://doi.org/10.1101/2025.05.28.656666)
 
