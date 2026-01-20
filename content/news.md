@@ -35,7 +35,7 @@ conformations and favoring one pathway over another.
 Because arrestins themselves are multifunctional, we asked whether an additional 
 layer of regulation might exist, an “intra-arrestin bias.” Indeed, we found that
 two arrestin-biased ligands of the angiotensin II type 1 receptor (AT1R) stabilize 
-strikingly different arrestin conformations. This results in distinct AT1R–arrestin 
+strikingly different receptor conformations. This results in distinct AT1R–arrestin 
 complexes and divergent functional outcomes. Great news for future drug discovery!
 
 Julia and Mahdi did an outstanding job running and analyzing molecular dynamics 
