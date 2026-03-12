@@ -19,6 +19,23 @@ TEXT
 <br><br>
 <hr>
 --->
+<h3 class="f3">Matthias gives talk at DPG Spring Meeting</h3>
+<i>March 11, 2026</i>
+
+Matthias was invited to present at this year's Spring Meeting of the German Physical Society in Dresden, as part of the "Focus Session: Integrative Modeling" — a great opportunity to share our latest work with the broader community.
+<br><br> 
+<center>
+<img src="../img/DPG2026.jpg" width="600"></img>
+</center>
+
+His talk focused on our recent research on Intra-Transducer Signaling, covering how we identify and target relevant conformations. The presentation was well received, and sparked some great conversations with other integrative research groups — with potential collaborations already on the horizon.
+
+Exciting times ahead!
+<br><br>
+<hr>
+
+
+
 <h3 class="f3">Markus’ Project Funded by the Hyp*MOL Consortium</h3>
 <i>November 4-7, 2025</i>
 <br><br> 
@@ -26,6 +43,7 @@ TEXT
 <center>
 <img src="../img/Markus_Chemnitz.jpg" width="600"></img>
 </center>
+
 Markus needs serious GPU power to train his graph neural networks — so he applied for funding from the Hyp*MOL consortium to build our own mini-cluster.
 His proposal was very well received and has been fully funded!
 
@@ -60,6 +78,7 @@ A special highlight: **Dilara received the prize for the best poster!** Congratu
 <center>
 <img src="../img/EPRSS_Manchester2025.png" width="1200"></img>
 </center>
+
 This summer, three of our students represented the Elgeti Lab at the EPR Summer School in Manchester.
 Anna and Martin presented their poster “Investigating conformational equilibria and ligand binding using EPR spectroscopy”, while Sebastian showcased his latest results on “Characterization of flavoprotein mr5411 with transient CW-EPR”.
 
@@ -76,6 +95,7 @@ Beyond the scientific program, the Summer School offered a fantastic chance to c
 <center>
 <img src="../img/PharmacyScience2025.png" width="600"></img>
 </center>
+
 At this year's PSD, Patricia shared some insights into the power of EPR spectroscopy for investigating signaling proteins. Her practice paid off - no sign of nervousness, just having fun!
 
 All other lab members presented their work on posters - afterwards there was food and drinks to meet fellow students and PIs or discuss potential collaborations. Looking forward to next year!
@@ -99,6 +119,7 @@ Today, Patricia defended her Master's thesis for which she is investigating the 
 <center>
 <img src="../img/Anna_Krauspe_defense.png" width="600"></img>
 </center>
+
 Anna successfully defended her master's thesis today. Her thesis was about the effects of solid-support attachment on MBP ligand binding.
 Keep up the good work!
 
@@ -110,6 +131,7 @@ Afterwards, we celebrated her at the beer garden, along with the nice weather!
 <h3 class="f3">Ivan Yushin joins the Elgeti Lab</h3>
 <i>January 27, 2025</i>
 <br><br> 
+
 Ivan Yushin joins the Elgeti Lab as a PhD student. He will work on developing <i> a new EPR flow system for ligand screening using 3D printing technology </i>. Having a strong background in computational chemistry, he will also work on creating <i> parameters for spin labels for Molecular Dynamics simulations </i>.
 
 We are happy to have Ivan with us now!
@@ -120,6 +142,7 @@ We are happy to have Ivan with us now!
 <h3 class="f3">Dr. Markus Fischer joins the Elgeti Lab</h3>
 <i>December 1, 2024</i>
 <br><br> 
+
 Markus Fischer joins the Elgeti Lab as a postdoctoral researcher. Markus has a strong background in physics and machine learning. In his research, Markus will focus on <i>developing methods to search for allosteric pockets in GPCRs and the design novel allosteric binding agents for them.</i> 
 
 Welcome, Markus!
@@ -144,6 +167,7 @@ The retreat was full of discussions, sharing practical insights between members 
 <h3 class="f3">Martin Buhlmann joins the Elgeti lab for his PhD</h3>
 <i>September 26, 2024</i>
 <br><br>
+
 This week, Martin Buhlmann presented and successfully defended his master’s thesis titled: “<i>Exploring the Conformational Landscape of Maltose Binding Protein Using EPR Spectroscopy</i>” in which he applied a novel theoretical framework to study the ligand binding to the model protein MBP.
 
 We are excited to keep Martin as a PhD student. He will be part of the collaborative research center "Structural Dynamics of GPCR Activation and Signaling" (SFB 1423).
@@ -159,6 +183,7 @@ We are excited to keep Martin as a PhD student. He will be part of the collabora
 <center>
 <img src="../img/DGfB2024_doctoral_students.jpg" width="600"></img>
 </center>
+
 Our group attended the German Biophysical Society Meeting 2024. Doctoral students Dilara, Julia and Sebastian presented their posters, Matthias gave a talk in the GPCR session. 
 
 During the three day meeting, we had many discussions with interested attendees, and had a good time with our colleagues. Thanks to the organizers for this great conference!
