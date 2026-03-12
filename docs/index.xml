@@ -140,7 +140,12 @@ Our project investigates a flavin-binding protein that forms a light-induced spi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elgetilab.github.io/news/</guid>
+<<<<<<< HEAD
       <description>NewsMatthias gives talk at DPG Spring MeetingMarch 11, 2026Matthias was invited to present at this year&amp;rsquo;s Spring Meeting of the German Physical Society in Dresden, as part of the &amp;ldquo;Focus Session: Integrative Modeling&amp;rdquo; — a great opportunity to share our latest work with the broader community. His talk focused on our recent research on Intra-Transducer Signaling, covering how we identify and target relevant conformations. The presentation was well received, and sparked some great conversations with other integrative research groups — with potential collaborations already on the horizon.</description>
+=======
+      <description>NewsNew paper on Intra-arrestin bias publishedJanuary 19, 2026GPCRs are remarkable nano-processors: they bind and activate diverse transducer proteins—such as G proteins or arrestins—thereby triggering very different cellular responses. Certain ligands can bias this signaling by selectively stabilizing distinct receptor conformations and favoring one pathway over another.
+Because arrestins themselves are multifunctional, we asked whether an additional layer of regulation might exist, an “intra-arrestin bias.” Indeed, we found that two arrestin-biased ligands of the angiotensin II type 1 receptor (AT1R) stabilize strikingly different receptor conformations.</description>
+>>>>>>> a7ac80ba036abf7e436f85f89f88517d232e4d96
     </item>
     
     <item>
@@ -160,7 +165,7 @@ Our project investigates a flavin-binding protein that forms a light-induced spi
       <guid>https://elgetilab.github.io/publications/</guid>
       <description>Publications*co-first author, ‡corresponding author
 Belyaeva J &amp;amp; Elgeti M‡. Reconstructing hidden GPCR conformations and ligand binding modes through integrative DEER modeling. Under review
-Elgeti M‡, Belyaeva J*, Bagherpoor Helabad M, Staus DP, Wingler LM‡. Angiotensin receptor conformations stabilized by biased ligands differentially modulate β-arrestin interactions. Journal of Biological Chemistry. Accepted https://doi.org/10.1016/j.jbc.2025.111117. | preprint
+Elgeti M‡, Belyaeva J*, Bagherpoor Helabad M, Staus DP, Wingler LM‡. Angiotensin receptor conformations stabilized by biased ligands differentially modulate β-arrestin interactions. (2026) Journal of Biological Chemistry 302 (2): 111117. read online | preprint
 Gupta V, Laugwitz J, Sklodowski M, Voitel M, Sala D, Kaiser A, Elgeti M, Meiler J, Huster D, Beck-Sickinger AG, Schmidt P, Penk A.</description>
     </item>
     

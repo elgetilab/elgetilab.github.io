@@ -19,6 +19,7 @@ TEXT
 <br><br>
 <hr>
 --->
+<<<<<<< HEAD
 <h3 class="f3">Matthias gives talk at DPG Spring Meeting</h3>
 <i>March 11, 2026</i>
 
@@ -36,6 +37,34 @@ Exciting times ahead!
 
 
 
+=======
+<h3 class="f3">New paper on Intra-arrestin bias published</h3>
+<i>January 19, 2026</i>
+<br><br> 
+
+<center>
+<img src="../img/JBC-2026.png" width="600"></img>
+</center>
+
+GPCRs are remarkable nano-processors: they bind and activate diverse transducer 
+proteins—such as G proteins or arrestins—thereby triggering very different cellular responses. 
+Certain ligands can bias this signaling by selectively stabilizing distinct receptor 
+conformations and favoring one pathway over another.
+
+Because arrestins themselves are multifunctional, we asked whether an additional 
+layer of regulation might exist, an “intra-arrestin bias.” Indeed, we found that
+two arrestin-biased ligands of the angiotensin II type 1 receptor (AT1R) stabilize 
+strikingly different receptor conformations. This results in distinct AT1R–arrestin 
+complexes and divergent functional outcomes. Great news for future drug discovery!
+
+Julia and Mahdi did an outstanding job running and analyzing molecular dynamics 
+simulations! This project was part of a great, longstanding collaboration with Laura Wingler's
+lab at Duke University. Read the full story [here](https://www.jbc.org/article/S0021-9258(25)02969-2/fulltext).
+
+<br><br>
+<hr>
+
+>>>>>>> a7ac80ba036abf7e436f85f89f88517d232e4d96
 <h3 class="f3">Markus’ Project Funded by the Hyp*MOL Consortium</h3>
 <i>November 4-7, 2025</i>
 <br><br> 
