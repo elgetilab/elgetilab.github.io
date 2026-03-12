@@ -19,7 +19,7 @@ TEXT
 <br><br>
 <hr>
 --->
-<<<<<<< HEAD
+
 <h3 class="f3">Matthias gives talk at DPG Spring Meeting</h3>
 <i>March 11, 2026</i>
 
@@ -36,8 +36,6 @@ Exciting times ahead!
 <hr>
 
 
-
-=======
 <h3 class="f3">New paper on Intra-arrestin bias published</h3>
 <i>January 19, 2026</i>
 <br><br> 
@@ -58,13 +56,10 @@ strikingly different receptor conformations. This results in distinct AT1R–arr
 complexes and divergent functional outcomes. Great news for future drug discovery!
 
 Julia and Mahdi did an outstanding job running and analyzing molecular dynamics 
-simulations! This project was part of a great, longstanding collaboration with Laura Wingler's
-lab at Duke University. Read the full story [here](https://www.jbc.org/article/S0021-9258(25)02969-2/fulltext).
-
+simulations! This project was part of a great, longstanding collaboration with Laura Wingler's lab at Duke University. Read the full story [here](https://www.jbc.org/article/S0021-9258(25)02969-2/fulltext).
 <br><br>
 <hr>
 
->>>>>>> a7ac80ba036abf7e436f85f89f88517d232e4d96
 <h3 class="f3">Markus’ Project Funded by the Hyp*MOL Consortium</h3>
 <i>November 4-7, 2025</i>
 <br><br> 
@@ -78,7 +73,6 @@ His proposal was very well received and has been fully funded!
 
 At this year’s Hyp*MOL status meeting, Markus presented the background and current progress of his project to the community.
 Great job, Markus — way to go!
-
 <br><br>
 <hr>
 
@@ -95,8 +89,6 @@ A special highlight: **Dilara received the prize for the best poster!** Congratu
 <center>
 <img src="../img/Dilara_Patricia_Krakow.png" width="1200"></img>
 </center>
-
-
 <br><br>
 <hr>
 
@@ -112,10 +104,8 @@ This summer, three of our students represented the Elgeti Lab at the EPR Summer 
 Anna and Martin presented their poster “Investigating conformational equilibria and ligand binding using EPR spectroscopy”, while Sebastian showcased his latest results on “Characterization of flavoprotein mr5411 with transient CW-EPR”.
 
 Beyond the scientific program, the Summer School offered a fantastic chance to connect with fellow graduate students, exchange ideas with leading EPR experts from academia and industry, and develop new skills in lectures and masterclasses. And, of course, our team also found time to explore Manchester — enjoying the city’s atmosphere and creating new friendships along the way.
-
 <br><br>
 <hr>
-
 
 <h3 class="f3">Pharmacy Science Day 2025</h3>
 <i>July 8, 2025</i>
@@ -128,7 +118,6 @@ Beyond the scientific program, the Summer School offered a fantastic chance to c
 At this year's PSD, Patricia shared some insights into the power of EPR spectroscopy for investigating signaling proteins. Her practice paid off - no sign of nervousness, just having fun!
 
 All other lab members presented their work on posters - afterwards there was food and drinks to meet fellow students and PIs or discuss potential collaborations. Looking forward to next year!
-
 <br><br>
 <hr>
 
@@ -137,7 +126,6 @@ All other lab members presented their work on posters - afterwards there was foo
 <br><br> 
 
 Today, Patricia defended her Master's thesis for which she is investigating the conformational dynamics of arrestin. The initial results are very exciting and I am sure that Patricia's passion for arrestin will pay off!
-
 <br><br>
 <hr>
 
