@@ -29,7 +29,7 @@ Matthias was invited to present at this year's Spring Meeting of the German Phys
 <img src="../img/DPG2026.jpg" width="600"></img>
 </center>
 
-His talk focused on our recent research on Intra-Transducer Signaling, covering how we identify and target relevant conformations. The presentation was well received, and sparked some great conversations with other integrative research groups — with potential collaborations already on the horizon.
+His talk focused on our recent research on Intra-Transducer Bias, covering how we identify and target relevant conformations. The presentation was well received, and sparked some great conversations with other integrative research groups — with potential collaborations already on the horizon.
 
 Exciting times ahead!
 <br><br>
