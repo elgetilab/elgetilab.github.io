@@ -17,11 +17,17 @@ title: Publications
 Gupta V, Laugwitz J, Sklodowski M, Voitel M, Sala D, Kaiser A, **Elgeti M**, Meiler J, Huster D, Beck-Sickinger AG, Schmidt P, Penk A. Structural insights into the binding modes of arrestin-3 finger loop to the neuropeptide Y1 and Y2 receptors.  (2025). *Structure, 33 (10):* 1728-1738. 
 <br>[read online](https://www.cell.com/structure/fulltext/S0969-2126(25)00260-6)
 
+Volkenandt S, **Belyaeva J**, Li T, **Elgeti M**, Metzler R, Imhof P, Williams DC Jr, **Helabad MB** (2025). Exploring the Bistable Equilibrium of Methylated CpG DNA Recognition by the MBD2 Protein. *bioRxiv* 2025.06.30.662303.
+<br>[preprint](https://doi.org/10.1101/2025.06.30.662303)
+
 **Belyaeva J, Elgeti M**‡. Exploring protein structural ensembles: Integration of sparse experimental data from electron paramagnetic resonance spectroscopy with molecular modeling methods. (2024). *eLife, 13:* e99770. 
 <br>[read online]( https://doi.org/10.7554/eLife.99770)
 
 Zhao J, **Elgeti M**\*‡, O'Brien ES, Sár CP, El Daibani A, Heng J, Sun X, Che T, Hubbell WL, Kobilka BK, Chen C. Ligand efficacy modulates conformational dynamics of the μ-opioid receptor. (2024). *Nature, 629:* 474-480. 
 <br>[read online](https://doi.org/10.1038/s41586-024-07295-2) | [preprint](https://www.biorxiv.org/content/10.1101/2023.04.28.538657v1)
+
+Chen M, Kálai T, Cascio D, Bridges MD, Whitelegge JP, **Elgeti M**, Hubbell WL (2024). A Highly Ordered Nitroxide Side Chain for Distance Mapping and Monitoring Slow Structural Fluctuations in Proteins. *Applied Magnetic Resonance, 55:* 251–277.
+<br>[read online](https://doi.org/10.1007/s00723-023-01618-8)
 
 Khan F, **Elgeti M**\*‡, Grandfield S, Paz A, Naughton FB, Marcoline FV, Althoff T, Ermolova N, Wright EM, Hubbell WL, Grabe M, Abramson J. Membrane potential accelerates sugar uptake by stabilizing the outward facing conformation of the Na/glucose symporter vSGLT. (2023). *Nature Communications, 14:* 7511. 
 <br>[read online](https://www.nature.com/articles/s41467-023-43119-z)
@@ -49,8 +55,8 @@ Wingler LM, **Elgeti M**\*, Hilger D, Latorraca NR, Lerch MT, Staus DP, Dror RO,
 
 **Elgeti M**‡, Kazmin R, Rose AS, Szczepek M, Hildebrand PW, Bartl FJ, Scheerer P, Hofmann KP (2018). The Arrestin- 1 Finger Loop Interacts with Two Distinct Conformations of Active Rhodopsin. *Journal of Biological Chemistry 293:* 4403–10.<br>[read online](https://www.jbc.org/article/S0021-9258(20)39810-0/fulltext)
 
-Dacquay Y, Lee JR, Govetto A, **Elgeti M**, Hubbell WL, Kavehpour P, Hubschman J-P (2016). Condensation on Intraocular Lenses During Vitrectomy: Effect of Perfluorocarbon Liquids. *Journal for Modeling in Ophthalmology 1:* 71– 79.
-<br>[read online](https://www.maio-journal.com/index.php/MAIO/article/view/84)
+Dacquay Y, Lee JR, Govetto A, **Elgeti M**, Hubbell WL, Kavehpour P, Hubschman J-P (2018). Condensation on Intraocular Lenses During Vitrectomy: Effect of Perfluorocarbon Liquids. *Artificial Intelligence in Vision and Ophthalmology 2(1):* 71–80.
+<br>[read online](https://www.aivojournal.com/index.php/MAIO/article/view/84)
 
 Kazmin R, Rose AS, Szczepek M, **Elgeti M**, Ritter E, Piechnick R, Hofmann KP, Scheerer P, Hildebrand PW, Bartl FJ (2015). The Activation Pathway of Human Rhodopsin in Comparison to Bovine Rhodopsin. *Journal of Biological Chemistry 290:* 20117–27.
 <br>[read online](https://www.jbc.org/article/S0021-9258(20)42153-2/fulltext)
