@@ -10,6 +10,8 @@ title: Publications
 
 *co-first author, ‡corresponding author
 
+Bergdoll L, **Elgeti M**\*‡, **Belyaeva J**, Zlobin A, Duneau JP, Hubbell WL, Abramson J. Elliptical β-barrel deformation underlies gating in VDAC1. (2026) *Protein Science 35(7):* e70677. <br>[read online](http://dx.doi.org/10.1002/pro.70677)
+
 **Belyaeva J** & **Elgeti M**‡. Reconstructing hidden GPCR conformations and ligand binding modes through integrative DEER modeling. *Under review*
 
 **Elgeti M**‡, **Belyaeva J**\*, **Bagherpoor Helabad M**, Staus DP, Wingler LM‡. Angiotensin receptor conformations stabilized by biased ligands differentially modulate β-arrestin interactions. (2026) *Journal of Biological Chemistry 302 (2):* 111117. <br>[read online](https://doi.org/10.1016/j.jbc.2025.111117) | [preprint](https://doi.org/10.1101/2025.05.28.656666)

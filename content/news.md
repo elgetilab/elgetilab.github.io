@@ -19,6 +19,22 @@ TEXT
 <br><br>
 <hr>
 --->
+<h3 class="f3">Our paper on VDAC was just accepted in Protein Science</h3>
+<i>May 29, 2026</i>
+
+Lucie and Matthias met at UCLA, both PostDocs at that time. They started a project studying the structural 
+dynamics of the voltage dependent anion channel VDAC using DEER. We investigated
+the effect of the lipid membrane, changes in pH, mutations and hydrostatic pressure.
+
+We acquired a huge amount of data, and as it comes, but did not find the one dramatic conformational change
+which would explain VDAC's gating behavior. Both moved on to new positions, Lucie is back France and Matthias 
+started his lab in Leipzig. With computational help from Julia and Alex at Leipzig, we were finally able to explain
+the intricate mechanism of gating. It's rather subtle changes of the barrel shape.
+
+Read the full story in [Protein Science](http://dx.doi.org/10.1002/pro.70677) and congrats to everyone involved!
+<br><br>
+<hr>
+
 
 <h3 class="f3">Matthias gives talk at DPG Spring Meeting</h3>
 <i>March 11, 2026</i>
