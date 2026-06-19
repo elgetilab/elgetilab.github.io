@@ -20,7 +20,7 @@ TEXT
 <hr>
 --->
 <h3 class="f3">Our paper on VDAC was just accepted in Protein Science</h3>
-<i>May 29, 2026</i>
+<i>June, 19, 2026</i>
 
 Lucie and Matthias met at UCLA, both PostDocs at that time. They started a project studying the structural 
 dynamics of the voltage dependent anion channel VDAC using DEER. We investigated

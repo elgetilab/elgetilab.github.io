@@ -140,7 +140,8 @@ Our project investigates a flavin-binding protein that forms a light-induced spi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elgetilab.github.io/news/</guid>
-      <description>NewsMatthias gives talk at DPG Spring MeetingMarch 11, 2026Matthias was invited to present at this year&amp;rsquo;s Spring Meeting of the German Physical Society in Dresden, as part of the &amp;ldquo;Focus Session: Integrative Modeling&amp;rdquo; — a great opportunity to share our latest work with the broader community. His talk focused on our recent research on Intra-Transducer Bias, covering how we identify and target relevant conformations. The presentation was well received, and sparked some great conversations with other integrative research groups — with potential collaborations already on the horizon.</description>
+      <description>NewsOur paper on VDAC was just accepted in Protein ScienceJune, 19, 2026Lucie and Matthias met at UCLA, both PostDocs at that time. They started a project studying the structural dynamics of the voltage dependent anion channel VDAC using DEER. We investigated the effect of the lipid membrane, changes in pH, mutations and hydrostatic pressure.
+We acquired a huge amount of data, and as it comes, but did not find the one dramatic conformational change which would explain VDAC&amp;rsquo;s gating behavior.</description>
     </item>
     
     <item>
@@ -159,9 +160,9 @@ Our project investigates a flavin-binding protein that forms a light-induced spi
       
       <guid>https://elgetilab.github.io/publications/</guid>
       <description>Publications*co-first author, ‡corresponding author
+Bergdoll L, Elgeti M*‡, Belyaeva J, Zlobin A, Duneau JP, Hubbell WL, Abramson J. Elliptical β-barrel deformation underlies gating in VDAC1. (2026) Protein Science 35(7): e70677. read online
 Belyaeva J &amp;amp; Elgeti M‡. Reconstructing hidden GPCR conformations and ligand binding modes through integrative DEER modeling. Under review
-Elgeti M‡, Belyaeva J*, Bagherpoor Helabad M, Staus DP, Wingler LM‡. Angiotensin receptor conformations stabilized by biased ligands differentially modulate β-arrestin interactions. (2026) Journal of Biological Chemistry 302 (2): 111117. read online | preprint
-Gupta V, Laugwitz J, Sklodowski M, Voitel M, Sala D, Kaiser A, Elgeti M, Meiler J, Huster D, Beck-Sickinger AG, Schmidt P, Penk A.</description>
+Elgeti M‡, Belyaeva J*, Bagherpoor Helabad M, Staus DP, Wingler LM‡. Angiotensin receptor conformations stabilized by biased ligands differentially modulate β-arrestin interactions.</description>
     </item>
     
   </channel>
