@@ -1,9 +1,13 @@
 ---
-description: News from the Elgeti Lab
+title: "News"
 draft: false
 layout: standard
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+description: News from the Elgeti Lab
 show_title_as_headline: false
-title: News
 ---
 
 <center>
@@ -19,6 +23,26 @@ TEXT
 <br><br>
 <hr>
 --->
+<h3 class="f3">Research Festival of Life Sciences in Leipzig</h3>
+<i>June, 22, 2026</i>
+<br><br> 
+
+<center>
+<img src="../img/research_festival_leipzig2026.png" width="1200"></img>
+</center>
+
+Members of our group actively participated in the Research Festival of Life Sciences in Leipzig, presenting two posters:
+
+<i>"Enabling Nanomolar Affinity Measurements with EPR: From Model Proteins to GPCR Drug Targets"</i> and 
+<i>"Decoding GPCR Biased Signalling: Hidden Conformations Revealed by EPR Spectroscopy, Deep Learning, and Molecular Dynamics"</i>. 
+The two projects — one experimental, one computational — beautifully complement each other, together advancing the development of novel GPCR therapeutics.
+
+The festival itself was a joy: a sunny, gorgeous (and rather scorching) day in Leipzig, with a well-deserved ice cream break at lunch keeping everyone cool and energized.
+
+<br><br>
+<hr>
+
+
 <h3 class="f3">Our paper on VDAC was just accepted in Protein Science</h3>
 <i>June, 19, 2026</i>
 
