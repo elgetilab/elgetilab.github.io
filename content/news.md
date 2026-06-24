@@ -19,6 +19,19 @@ TEXT
 <br><br>
 <hr>
 --->
+
+<h3 class="f3">Lab outing</h3>
+<i>June, 21, 2026</i>
+<center>
+<img src="../img/Lab outing collage.png" width="800"></img>
+</center>
+
+On Sunday the lab swapped the bench and keyboard for bow and arrows. We spent the afternoon at an archery course on the Störmthaler See, followed by a picnic on the shore. One of the nicest lakes around Leipzig, and good weather to match.
+
+<br><br>
+<hr>
+
+
 <h3 class="f3">Our paper on VDAC was just accepted in Protein Science</h3>
 <i>June, 19, 2026</i>
 
