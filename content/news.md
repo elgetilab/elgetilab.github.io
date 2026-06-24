@@ -1,9 +1,13 @@
 ---
-description: News from the Elgeti Lab
+title: "News"
 draft: false
 layout: standard
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+description: News from the Elgeti Lab
 show_title_as_headline: false
-title: News
 ---
 
 <center>
@@ -21,19 +25,38 @@ TEXT
 --->
 
 <h3 class="f3">Lab outing</h3>
-<i>June, 21, 2026</i>
+<i>June 21, 2026</i>
 <center>
-<img src="../img/Lab outing collage.png" width="800"></img>
+<img src="../img/Lab outing collage.png" width="1000"></img>
 </center>
 
 On Sunday the lab swapped the bench and keyboard for bow and arrows. We spent the afternoon at an archery course on the Störmthaler See, followed by a picnic on the shore. One of the nicest lakes around Leipzig, and good weather to match.
 
+<h3 class="f3">Research Festival of Life Sciences in Leipzig</h3>
+<i>June 18, 2026</i>
+<br><br> 
+
+<center>
+<img src="../img/research_festival_leipzig2026.png" width="800"></img>
+</center>
+
+The Research Festival of Life Sciences in Leipzig is over, and our group was right in the middle of it with two posters:
+
+- <i>"Enabling Nanomolar Affinity Measurements with EPR: From Model Proteins to GPCR Drug Targets"</i>
+- <i>"Decoding GPCR Biased Signaling: Hidden Conformations Revealed by EPR Spectroscopy, Deep Learning, and Molecular Dynamics"</i>
+
+One project is all wet-lab, the other lives on the computer, and the two fit together nicely: spectroscopy and simulation pulling in the same direction toward better GPCR drugs.
+
+The day itself? Sunny, gorgeous, and frankly a bit too hot. The lunchtime ice cream break was less a treat than a survival strategy.
+
 <br><br>
 <hr>
 
-
 <h3 class="f3">Our paper on VDAC was just accepted in Protein Science</h3>
-<i>June, 19, 2026</i>
+<i>June 19, 2026</i>
+<center>
+<img src="../img/VDAC2026.png" width="600"></img>
+</center>
 
 Lucie and Matthias met at UCLA, both PostDocs at that time. They started a project studying the structural 
 dynamics of the voltage dependent anion channel VDAC using DEER. We investigated
