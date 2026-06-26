@@ -23,7 +23,17 @@ TEXT
 <br><br>
 <hr>
 --->
+<h3 class="f3">Lab internship</h3>
+<i>June 26, 2026</i>
+<center>
+<img src="../img/Carlotta.jpg" width="600"></img>
+</center>
+Carlotta joined our lab for a three-week internship as part of the BCH-0815 teaching module. It was an adventurous and productive journey, which was nicely summarised in the final presentation given by her today. 
 
+<i>We were happy to have you around, Carlotta!</i>
+<br><br>
+<hr>
+##############################
 <h3 class="f3">Lab outing</h3>
 <i>June 21, 2026</i>
 <center>
